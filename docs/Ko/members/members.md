@@ -17,4 +17,13 @@
 - [happyjourney](happyjourney.md)  
 젊은 천재 건축가 & 도시 디자이너
 
+- [Bluesky3125](Bluesky3125.md)  
+마법모드 전문가
+
+- [TIEREA](TIEREA.md)  
+추가 예정
+
+- [uranium10](uranium10.md)  
+추가 예정
+
 - 기억나는대로 추가 예정

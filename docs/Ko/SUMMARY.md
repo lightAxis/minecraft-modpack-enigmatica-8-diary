@@ -21,6 +21,7 @@
   * [철도 생성기](systems/rail_generator.md)
   * [주민팜 및 인챈트 주민 모음](systems/viliager_farm.md)
   * [포화된 타우 농장](systems/saturated_tau_farm.md)
+  * [네더 금 농장](systems/nether_gold_farm.md)
   * [메카니즘 에틸렌 발전기](systems/mk_ethylene_generator.md)
   * [메카니즘 광물 정제 플랜트](systems/mk_ore_processing_plant.md)
   * [메카니즘 황산 플렌트](systems/mk_sulfer_plant.md)

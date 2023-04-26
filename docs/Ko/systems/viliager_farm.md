@@ -3,5 +3,8 @@
 누군가는 이걸 인챈트작이라고 하지 않는다고...
 그러면 주민이 직업을 빠르게 가지게 해주던지
 
-blood magic 용으로 만든 saturated tau 팜
-문제는 saturated tau가 자라나기 위해서는 위에 몹이 존재하고 그 몹의 체력을 빨아들여야 해서 키우기 귀찮다
+![asdf](../../asset/systems/viliager_farm/main1.png)
+
+![asdf](../../asset/systems/viliager_farm/main2.png)
+
+![asdf](../../asset/systems/viliager_farm/main3.png)

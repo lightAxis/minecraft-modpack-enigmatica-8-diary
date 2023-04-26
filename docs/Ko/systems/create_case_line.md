@@ -3,3 +3,7 @@
 옆에 나무 캐는 라인에 빌붙어서 만들었는데 나무 팜이 고장나면서 지금은 가동중단 상태
 위에 표시된 주괴를 넣으면 알아서 케이스를 생산 해줌
 기차를 생산하는건 황동을 가져가기 때문에 옆에 레버를 작동시켜줘야 넘어간다
+
+![메인1](../../asset/systems/create_case_line/main1.png)
+
+![메인2](../../asset/systems/create_case_line/main2.png)

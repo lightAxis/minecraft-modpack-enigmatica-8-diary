@@ -9,7 +9,7 @@
 메카니즘의 portable teleporter로도 들어올 수 있으며, 다른 월드와 구분짓기 위해 이곳의 모든 텔레포터 채널은 '_CM'을 붙이고 시작한다.
 
 대충 사진  
-![사진](../../asset/blank_img.png)
+![사진](../../asset/blank_img.jpg)
 
 ## 참여자
 - [jasuk500](../members/jasuk500.md)  

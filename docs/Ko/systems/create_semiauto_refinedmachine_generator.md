@@ -6,4 +6,4 @@
 벨트 방향에 따라서 동작이 달라지니 주의.
 
 
-![메인](../../asset/systems/create_semiauto_refinedmachine_generator/main.png)
+![메인](../../asset/systems/create_semiauto_refinedmachine_generator/main.jpg)

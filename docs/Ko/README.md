@@ -24,6 +24,6 @@ repo 주소는 [https://github.com/lightAxis/minecraft-modpack-enigmatica-8-diar
 
 서버 내에 건축된 모든 건축물을 설명합니다.
 
-### [시스템](systems/system.md)
+### [시스템](systems/systems.md)
 
 서버 안에서 사용된 모든 기술을 설명합니다.

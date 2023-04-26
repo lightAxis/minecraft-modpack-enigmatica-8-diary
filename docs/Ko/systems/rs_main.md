@@ -11,10 +11,11 @@
 ![이미지](../../asset/blank_img.jpg)
 
 # 참여
-
+<!-- player_desc_open -->
 - [jasuk500](../members/jasuk500.md)  
 시스템 총괄
 - [BANJUHARA](../members/BANJUHARA.md)  
 시스템 유지보수 및 기능 추가
 - [happyjourney](../members/happyjourney.md)  
 데코 및 건축
+<!-- player_desc_close -->

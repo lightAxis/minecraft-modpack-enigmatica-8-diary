@@ -18,3 +18,8 @@
 ## 업적
 
 - 추가 예정
+
+## 참여 목록
+
+<!-- player_desc_dest_open -->
+<!-- player_desc_dest_close -->

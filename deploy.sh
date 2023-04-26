@@ -3,6 +3,8 @@
 # abort on errors
 set -e
 
+./run_adjustment_script.sh
+
 # build
 npm run build
 

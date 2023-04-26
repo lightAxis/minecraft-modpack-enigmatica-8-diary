@@ -12,7 +12,9 @@
 ![사진](../../asset/blank_img.jpg)
 
 ## 참여자
+<!-- player_desc_open -->
 - [jasuk500](../members/jasuk500.md)  
 총괄 및 유지보수
 - [happyjourney](../members/happyjourney.md)  
 데코 및 건축
+<!-- player_desc_close -->

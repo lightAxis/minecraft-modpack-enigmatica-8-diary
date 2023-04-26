@@ -15,14 +15,23 @@ npm init -y
 npm install -D vuepress
 npm audit fix
 
-# add excute permission to deploy script
-chmod +x deploy.sh
+# add excute permission to shell scripts
+# chmod +x deploy.sh
+# chmod +x local_test.sh
+
+# add execute permission to python scripts
+# chmod +x image_adjust.py
+# chmod +x make_player_profile.py
 ```
 
 ## How to test in local
 ```shell
-npm run doc
+./local_test.sh
 ```
+
+That script is doing:
+1. run adjustment python scripts
+2. do `npm run doc` to build html files and open local test server
 
 Than will open as a local server address which is usally:  
  http://localhost:8080/minecraft-modpack-enigmatica-8-diary/
@@ -32,6 +41,8 @@ Than will open as a local server address which is usally:
 ./deploy.sh
 ```
 That script is doing:
-1. make a new git init in dist
-2. init a new commit
-3. force push to gh-pages branch
+1. run adjustment python scripts
+2. do `npm run build` to build html files
+3. make a new git init in doc/.vuepress/dist
+4. init a new commit
+5. force push to gh-pages branch

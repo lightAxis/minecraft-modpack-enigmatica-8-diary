@@ -48,12 +48,14 @@ def __adjust_image(path: str):
 
 if __name__ == "__main__":
     # Execute when the module is not initialized from an import statement.
-    print("main!")
+    print("Start to adjusting images in asset..")
 
     imagePaths: List[str] = []
     __recursive_image_path_get("docs/asset", imagePaths)
 
     for path in imagePaths:
         __adjust_image(path)
+    
+    print("Done!")
 
     # print(imagePaths)

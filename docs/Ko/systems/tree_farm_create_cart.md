@@ -10,8 +10,9 @@
 ![이미지](../../asset/blank_img.jpg)
 
 ## 참여자
-
+<!-- player_desc_open -->
 - [jasuk500](../members/jasuk500.md)  
 기획 및 시스템 개발
 - [happyjourney](../members/happyjourney.md)  
 외관 디자인
+<!-- player_desc_close -->

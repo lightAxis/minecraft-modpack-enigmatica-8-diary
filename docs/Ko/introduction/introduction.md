@@ -13,5 +13,5 @@ Enigmatica-8 모드팩을 기반으로 한 서버입니다.
 - 운영체제 : Ubuntu 22.04
 
 
-서버 관련 구글 드라이브 폴더가 있습니다
-<!-- [주소](https://google.com) -->
+서버 관련 구글 드라이브 폴더가 있습니다  
+[주소](https://drive.google.com/drive/folders/1-_dD33YMMIZKC2793sm9-OWfFG5rsxvg?usp=share_link)

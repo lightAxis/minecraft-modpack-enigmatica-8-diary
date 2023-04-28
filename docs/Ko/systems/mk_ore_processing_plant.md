@@ -7,3 +7,11 @@
 
 가공 다이어그램은 다음과 같다:
 ![다이어그램](../../asset/systems/mk_ore_processing_plant/diagram.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [BANJUHARA](../members/BANJUHARA.md)  
+파이프라인 설계 및 제작 / 유지보수
+- [jasuk500](../members/jasuk500.md)  
+텔레포터 배치
+<!-- player_desc_close-->

@@ -46,9 +46,9 @@ Crafter Manager를 사용하면 네트워크에 연결된 모든 Crafter에 접�
 # 참여
 <!-- player_desc_open -->
 - [jasuk500](../members/jasuk500.md)  
-시스템 총괄
+시스템 총괄 및 유지보수
 - [BANJUHARA](../members/BANJUHARA.md)  
 시스템 유지보수 및 기능 추가
 - [happyjourney](../members/happyjourney.md)  
-데코 및 건축
+주변 공간 데코 및 외관 디자인
 <!-- player_desc_close -->

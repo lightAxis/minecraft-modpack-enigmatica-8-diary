@@ -7,3 +7,11 @@
 
 
 ![메인](../../asset/systems/create_semiauto_refinedmachine_generator/main.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [kidoxt](../members/kidoxt.md)  
+기계 배치 설계 및 제작
+- [happyjourney](../members/happyjourney.md)  
+주변 공간 데코
+<!-- player_desc_close-->

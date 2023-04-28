@@ -7,3 +7,10 @@
 한때 이랬지만, 지금은 롤백 사태 이후로 사라짐.
 
 ![한때는](../../asset/systems/mk_sulfer_plant/before.jpg)
+
+
+### 참여자
+<!-- player_desc_open -->
+- [BANJUHARA](../members/BANJUHARA.md)  
+파이프라인 설계 및 제작
+<!-- player_desc_close-->

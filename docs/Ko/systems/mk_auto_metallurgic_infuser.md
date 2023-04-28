@@ -34,3 +34,13 @@ RS를 사용하기 때문에 input buffer의 용량이 얼마든지 확장될 �
 :::tip Future Work
 공간상의 이유로 Entangled 블럭을 남용하긴 했지만, 추후에 더 큰 공간으로 이사갈 때 깔끔하게 정리될 것이다.
 :::
+
+### 참여자
+<!-- player_desc_open -->
+- [jasuk500](../members/jasuk500.md)  
+자동화 라인 설계 및 제작
+- [BANJUHARA](../members/BANJUHARA.md)  
+초기 자동화 라인 개발 참여
+- [happyjourney](../members/happyjourney.md)  
+주변 공간 데코
+<!-- player_desc_close-->

@@ -7,3 +7,11 @@
 현재 따로 할당된 구역은 없으며, 일단 편의성을 위해 RS main 옆에 보관되어 있다.
 
 만약 잃어버릴 경우를 대비해서 [텔레포터 트렌잭션](teleporter_hub.md)으로 각 방을 이어놓은 상태다.
+
+### 참여자
+<!-- player_desc_open -->
+- [jasuk500](../members/jasuk500.md)  
+설계 및 제작
+- [happyjourney](../members/happyjourney.md)  
+주변 공간 데코
+<!-- player_desc_close-->

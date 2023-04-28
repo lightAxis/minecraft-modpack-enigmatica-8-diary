@@ -23,3 +23,11 @@
 
 전우의 유품으로 중무장하는 좀비피글린
 ![asdf](../../asset/systems/nether_gold_farm/rearmed_piglin.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [kidoxt](../members/kidoxt.md)  
+농장 구조 설계 및 제작, 재고 관리
+- [jasuk500](../members/jasuk500.md)  
+텔레포터 배치 / RS 네트워크 연결 관리
+<!-- player_desc_close-->

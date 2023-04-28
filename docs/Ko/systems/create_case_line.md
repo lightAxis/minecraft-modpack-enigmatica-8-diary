@@ -9,3 +9,11 @@ create의 모든 케이스를 생산 할 수 있는 자동화 라인.
 ![메인1](../../asset/systems/create_case_line/main1.jpg)
 
 ![메인2](../../asset/systems/create_case_line/main2.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [kidoxt](../members/kidoxt.md)  
+생산라인 설계 및 제작
+- [happyjourney](../members/happyjourney.md)  
+주변 공간 데코
+<!-- player_desc_close-->

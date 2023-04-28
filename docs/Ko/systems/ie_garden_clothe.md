@@ -7,3 +7,11 @@
 요리용으로 쌀 키워보겠다고 만들었지만 내가 원하던 farmer's delight 쌀은 결국 못구했다고 합니다
 
 ![서브](../../asset/systems/ie_garden_clothe/sub.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [kidoxt](../members/kidoxt.md)  
+기계 배치 설계 및 제작
+- [happyjourney](../members/happyjourney.md)  
+주변 공간 데코
+<!-- player_desc_close-->

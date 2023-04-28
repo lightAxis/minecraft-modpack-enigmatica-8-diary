@@ -8,3 +8,9 @@
 ![메인1](../../asset/systems/create_waterwheel/main1.jpg)
 
 ![메인2](../../asset/systems/create_waterwheel/main2.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [kidoxt](../members/kidoxt.md)  
+기계 배치 설계 및 제작
+<!-- player_desc_close-->

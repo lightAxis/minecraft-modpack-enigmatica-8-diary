@@ -8,3 +8,9 @@ blood magic 용으로 만든 saturated tau 팜
 첫번째로 만들었던 닭을 이용한 sturated tau팜 인데 칼 범위 데미지로 내부 닭이 전멸한 이유 짜증나서 그냥 방치해버림
 
 ![asdf](../../asset/systems/saturated_tau_farm/before.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [kidoxt](../members/kidoxt.md)  
+자동화 설계 및 제작
+<!-- player_desc_close-->

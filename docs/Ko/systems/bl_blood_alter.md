@@ -16,3 +16,9 @@ Blood Altar에 몹을 공급하기 위한 몬스터 팜
 
 ![몬스터팜1](../../asset/systems/bl_blood_alter/monster_farm1.jpg)  
 ![몬스터팜2](../../asset/systems/bl_blood_alter/monster_farm2.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [kidoxt](../members/kidoxt.md)  
+시스템 설계 및 제작
+<!-- player_desc_close-->

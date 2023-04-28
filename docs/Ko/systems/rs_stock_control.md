@@ -32,3 +32,9 @@ Requetify는 물리적으로 구현해야 했던 Detector를 통한 신호를 �
 텔레포터 허브를 통해 이동 가능하다.
 
 ![adsf](../../asset/systems/rs_stock_control/gate.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [jasuk500](../members/jasuk500.md)  
+시스템 설계 및 제작 / 텔레포터 허브 연결
+<!-- player_desc_close-->

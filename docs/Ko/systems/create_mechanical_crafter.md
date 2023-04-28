@@ -3,3 +3,11 @@
 사용할줄 모르면 첫 고난인 조합기 뉴비에게 시켜보면 꿀잼임
 
 ![메인](../../asset/systems/create_mechanical_crafter/main.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [kidoxt](../members/kidoxt.md)  
+기계 배치 설계 및 제작
+- [happyjourney](../members/happyjourney.md)  
+주변 공간 데코
+<!-- player_desc_close-->

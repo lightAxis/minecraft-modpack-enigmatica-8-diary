@@ -7,3 +7,11 @@
 그걸로도 모자라서 기어시프트 달아서 속도를 반으로 낮춤
 
 ![asdf](../../asset/systems/rail_generator/sub1.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [kidoxt](../members/kidoxt.md)  
+생산라인 및 기계 배치, 설계, 제작
+- [happyjourney](../members/happyjourney.md)  
+주변 공간 데코
+<!-- player_desc_close-->

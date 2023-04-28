@@ -20,3 +20,9 @@ RS는 Crafter Manager라는 블럭을 통해, 네트워크에 연결된 모든 C
 현재 컴팩트 머신 방 안에 있으며, 텔레포터 허브를 통해 접근 가능하다
 
 ![adf](../../asset/systems/rs_crafters/gate.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [jasuk500](../members/jasuk500.md)  
+설계, 제작, 텔레포터 허브 연결
+<!-- player_desc_close-->

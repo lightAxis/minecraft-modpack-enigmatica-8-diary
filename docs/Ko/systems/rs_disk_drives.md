@@ -24,3 +24,9 @@ RS 시스템의 잡다한 아이템들이 전부 저장되므로, 수량이 적�
 현재 안전을 위해 별도의 컴팩트 머신 방을 할당하여 보관하고 있다.  
 텔레포트 허브를 통해 이동할 수 있다.  
 ![adf](../../asset/systems/rs_disk_drives/gate.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [jasuk500](../members/jasuk500.md)  
+설계, 제작, 텔레포터 허브 연결
+<!-- player_desc_close-->

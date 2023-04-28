@@ -4,3 +4,9 @@
 
 ![메인1](../../asset/systems/love_house/main1.jpg)  
 ![메인2](../../asset/systems/love_house/main2.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [BANJUHARA](../members/BANJUHARA.md)  
+최다우수이용고객
+<!-- player_desc_close-->

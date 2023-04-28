@@ -13,3 +13,10 @@
 
 현재도 역사를 기념하기 위해 메인길드의 바로 옆 마당에 자리잡고 있다.
 
+
+
+### 참여자
+<!-- player_desc_open -->
+- [BANJUHARA](../members/BANJUHARA.md)  
+기계 배치 및 파이프라인 설계 / 제작
+<!-- player_desc_close-->

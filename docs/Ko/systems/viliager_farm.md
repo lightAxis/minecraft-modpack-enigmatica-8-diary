@@ -12,3 +12,9 @@
 ![asdf](../../asset/systems/viliager_farm/main2.jpg)
 
 ![asdf](../../asset/systems/viliager_farm/main3.jpg)
+
+### 참여자
+<!-- player_desc_open -->
+- [kidoxt](../members/kidoxt.md)  
+농장 구조 설계 및 제작 / 애드온 모드 도입 / 주변 공간 데코
+<!-- player_desc_close-->

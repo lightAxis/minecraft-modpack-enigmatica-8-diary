@@ -23,5 +23,5 @@
 - [jasuk500](../members/jasuk500.md)  
 기획 및 시스템 개발
 - [happyjourney](../members/happyjourney.md)  
-외관 디자인
+케이싱 데코
 <!-- player_desc_close -->

@@ -2,7 +2,7 @@
 
 RS에서 사용하는 자동 조합법을 보관하는 방.
 
-![asdf](asset/../../../asset/systems/rs_crafters/main.jpg)
+![asdf](../../asset/systems/rs_crafters/main.jpg)
 
 RS 시스템의  모든 자동 조합법은 전부 여기에 보관된다.
 

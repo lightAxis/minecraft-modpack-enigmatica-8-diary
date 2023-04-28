@@ -1,0 +1,32 @@
+@startuml
+
+[*] --> Crafters : from RS_main
+[*] --> FluxPoint
+Crafters --> InputBuffer : crafter outputs these
+
+state XNet {
+    [*] --> XNetController
+    XNetController --> NodeInput
+    XNetController --> NodeOutput
+    XNetController --> NodeEnergy
+    XNetController --> NodeMachine1
+    XNetController --> NodeMachine2
+
+    NodeInput --> XNetController
+    NodeOutput --> XNetController
+    NodeEnergy --> XNetController
+    NodeMachine1 --> XNetController
+    NodeMachine2 --> XNetController
+}
+
+Machine1 --> NodeMachine1 : item & energy
+Machine2 --> NodeMachine2 : item & energy
+
+NodeMachine1 --> Machine1
+NodeMachine2 --> Machine2
+
+InputBuffer --> NodeInput
+FluxPoint --> NodeEnergy
+NodeOutput --> OutputBuffer
+OutputBuffer --> [*] :importer to RS_main
+@enduml

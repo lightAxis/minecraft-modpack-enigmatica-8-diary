@@ -11,11 +11,11 @@
 
 <!-- systems_list_dest_open -->
 - [ Blood magic Blood Altar](bl_blood_alter.md)  
-지금은 5티어인데 티어가 높아질 수록 피라미드 같이 만들어야하다 보니 높이 잘못 잡으면 고생한다
+블러드 매직 모드의 꽃, 블러드 알타.
 - [ Blood magic Edge of The Hidden Realm](bl_edge_of_the_hidden_realm.md)  
-여기서 Tau Fruit를 얻어와야한다 그외에는 딱히? 그냥 스포너 몇개 정도 캐오고 끝
+블러드 매직 모드가 추가하는 이상한 차원.
 - [ Blood magic Pathway to The Endless Realm](bl_pathway_to_the_endless_realm.md)  
-여기서 Hellforged block을 얻어야 Blood Altar 5티어 건설이 가능하다
+블러드 매직 모드가 추가하는 이상한 차원.
 - [ Create 강판 생산 라인](create_plate_line.md)  
 흑요석 라인 바로 아래에 위치하여 기차 만들기 위한 강판을 생산한다
 - [ Create 메카니컬 조합기](create_mechanical_crafter.md)  
@@ -35,7 +35,7 @@
 - [ Create 철조각 및 부싯돌 생성 공장](create_iron_flint_steal_factory.md)  
 철조각 압축으로 철주괴 생성 및 부싯돌 가득 차면 버리기 자동화
 - [ Create 케이스 생산 라인](create_case_line.md)  
-옆에 나무 캐는 라인에 빌붙어서 만들었는데 나무 팜이 고장나면서 지금은 가동중단 상태
+create의 모든 케이스를 생산 할 수 있는 자동화 라인.
 - [ Create 흑요석 생산 라인](create_obsidian_line.md)  
 유리블럭으로 둘러싸여 있어서 보수한다고 몇번이나 깨먹었다
 - [ 광물 가공 플랜트](mk_ore_processing_plant.md)  
@@ -53,23 +53,45 @@
 - [ 리파인드 스토리지 (메인)](rs_main.md)  
 리파인드 스토리지의 메인 컨트롤러가 위치한 장소
 - [ 리파인드 스토리지 네트워크 트랜젝션](rs_network_tranjection.md)  
-리파인드 스토리지의 무선 네트워크 연결을 관리하기 위해 만든 공간이다.  
+리파인드 스토리지의 무선 네트워크 연결 중앙화.
+- [ 리파인드 스토리지 디스크 드라이브 룸](rs_disk_drives.md)  
+RS에서 사용하는 내부 디스크 메모리를 관리하기 위한 공간.
+- [ 리파인드 스토리지 블랙홀 룸](rs_black_hole.md)  
+대량 아이템 타입을 선별하여 따로 블랙홀 유닛으로 처리하는 곳.
+- [ 리파인드 스토리지 재고 제어](rs_stock_control.md)  
+자동으로 아이템의 잔량을 조절하는 시스템
+- [ 리파인드 스토리지 크래프터 룸](rs_crafters.md)  
+RS에서 사용하는 자동 조합법을 보관하는 방.
+- [ 메카니즘 수동 프로세서들](mk_manual_processors.md)  
+수동으로 메카니즘의 각종 프로세싱을 하기 위한 공간이다.
+- [ 메카니즘 인덕션 메트릭스](mk_induction_matrix.md)  
+확장성 좋은 대량 에너지 저장 멀티블럭.
+- [ 메카니즘 자동 메탈러직 인퓨져](mk_auto_metallurgic_infuser.md)  
+RS 시스템에 연결되어 자동으로 병렬처리하는데 사용된다.
+- [ 메카니즘 자동 스멜터 프로세서](mk_auto_smeltery.md)  
+RS 시스템에서 자동 스멜팅에 사용하는 병렬 스멜터리 그룹.
+- [ 메카니즘 자동 인리치멘트 체임버](mk_auto_enrichment_chamber.md)  
+RS에 연결되어 자동으로 병렬 처리하는데 사용된다.
 - [ 메카니즘 황산 플랜트](mk_sulfer_plant.md)  
 물과 조약돌을 가공해 황산을 만드는 공정단지임. 전기 공급은 아래쪽으로 빼서 손도 깔끔
 - [ 블레이즈 킬링 챔버](blaze_killing_chamber.md)  
-팅커스 모드의 상위 연료인 몰튼 블러드를 공급해줌
+블레이즈를 자동으로 생산 후 녹이는 방.
 - [ 에틸렌 발전소](mk_ethylene_generator.md)  
 농작물을 연료로 가공해 만든 에틸렌을 가스 버닝 제너레이터가 태우는 메인 발전 시설로, 틱당 약 15만FE를 생산함
+- [ 오컬티즘 매직 스토리지](occultism_magic_storage.md)  
+아이템 네트워크를 사용한 대량 아이템 스토리지.
 - [ 이머시브 엔지니어링 원예기](ie_garden_clothe.md)  
 그저 요리용으로 잠시 만들고 신경 안쓰고 있었는데 아무도 있는줄 모르는듯....
 - [ 주민팜 및 인챈트 주민 모음](viliager_farm.md)  
 누군가는 이걸 인챈트작이라고 하지 않는다고...
 - [ 철도 생성기](rail_generator.md)  
 위쪽 큰 상자에 철 조각을 넣으면 알아서 만들어줌
+- [ 컴팩트 머신 메인](cm_compactmachine_main.md)  
+모든 컴팩트 머신 본체 보관소
 - [ 쿠킹 벙커](cooking_bunker.md)  
-토마토랑 생선은 기계가 자동으로 잡아주니 긴빠이해온 다른 재료들만 삭삭 올려서 다양한 요리가 가능함
-- [ 텔레포터 허브](teleporter_hub.md)  
-컴팩트 머신 차원 안에 위치한 컴팩트 머신 간의 텔레포터를 전부 연결하는 허브이다.
+모든 파머스 딜라이트 요리를 목표로 하는 쿠킹 벙커
+- [ 텔레포터 트랜잭션](teleporter_hub.md)  
+컴팩트 머신 차원 간을 연결하는 텔레포터 교차로 시설
 - [ 포화된 타우 농장](saturated_tau_farm.md)  
 blood magic 용으로 만든 saturated tau 팜
 - [ 핑크 슬라임 탱크](pink_slime_tank.md)  

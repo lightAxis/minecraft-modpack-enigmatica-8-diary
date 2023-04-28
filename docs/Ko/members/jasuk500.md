@@ -52,8 +52,10 @@
 기획 및 시스템 개발
 - [리파인드 스토리지 네트워크 트랜젝션](../systems/rs_network_tranjection.md)  
 총괄 및 유지보수
+- [리파인드 스토리지 블랙홀 룸](../systems/rs_black_hole.md)  
+설계, 제작, 텔레포터 허브 연결
 - [리파인드 스토리지 (메인)](../systems/rs_main.md)  
 시스템 총괄
-- [텔레포터 허브](../systems/teleporter_hub.md)  
+- [텔레포터 트랜잭션](../systems/teleporter_hub.md)  
 총괄 및 유지보수
 <!-- player_desc_dest_close -->

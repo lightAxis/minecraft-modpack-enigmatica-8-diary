@@ -1,0 +1,51 @@
+@startuml
+skinparam componentStyle rectangle
+
+component Generator1
+component Generator2
+
+component NPH_Gen_Flux_Network {
+    portin Input1
+    portin Input2
+    portout Output
+
+    component [Controller] as c1
+    component [EnergyBuffer] as e1
+}
+note right of NPH_Gen_Flux_Network
+Energy Channel for centralize 
+energy generation to Induction Matirix
+endnote
+
+component InductionMatrix
+
+component NPH_Flux_Network {
+    portin Input
+    portout Output1
+    portout Output2
+    portout Output3
+
+    component [Controller] as c2
+    component [EnergyBuffer] as e2
+
+}
+
+note right of NPH_Flux_Network
+Energy Channel for normal users and machines
+endnote
+
+component Machine1
+component RSMain
+component Etc
+
+Generator1 --> Input1
+Generator2 --> Input2
+
+Output --> InductionMatrix
+
+InductionMatrix --> Input
+
+Output1 --> Machine1
+Output2 --> RSMain
+Output3 --> Etc
+@enduml

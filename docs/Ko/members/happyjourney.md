@@ -26,6 +26,6 @@
 외관 디자인
 - [리파인드 스토리지 (메인)](../systems/rs_main.md)  
 데코 및 건축
-- [텔레포터 허브](../systems/teleporter_hub.md)  
+- [텔레포터 트랜잭션](../systems/teleporter_hub.md)  
 데코 및 건축
 <!-- player_desc_dest_close -->

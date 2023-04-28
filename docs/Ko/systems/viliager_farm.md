@@ -1,7 +1,11 @@
 # 주민팜 및 인챈트 주민 모음
 
 누군가는 이걸 인챈트작이라고 하지 않는다고...
+
+
 그러면 주민이 직업을 빠르게 가지게 해주던지
+
+현재는 Simple Viliger 모드를 통해 주민작 난이도를 대폭 완화하였다.
 
 ![asdf](../../asset/systems/viliager_farm/main1.jpg)
 

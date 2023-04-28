@@ -1,0 +1,31 @@
+@startuml
+
+[*] --> Crafters
+
+Crafters --> InputBuffer : export item from RS main
+
+state RS_SubNet {
+    [*] --> DiskDrive
+}
+
+InputBuffer --> RS_SubNet
+
+DiskDrive --> Infuser1 : exporter filter
+DiskDrive --> Infuser2 : exporter filter
+DiskDrive --> Infuser3 : exporter filter
+DiskDrive --> Infuser4 : exporter filter
+
+Infuser1 : enriched carbon
+Infuser2 : enriched diamond
+Infuser3 : enriched obsidian
+Infuser4 : enriched...
+
+Infuser1 --> XNet : node
+Infuser2 --> XNet : node
+Infuser3 --> XNet : node
+Infuser4 --> XNet : node
+
+XNet --> OutputBuffer : node
+OutputBuffer --> [*] : impoter to RS_main
+
+@enduml

@@ -38,6 +38,20 @@ Than will open as a local server address which is usally:
 
 ## How to deploy to server
 ```shell
+# check current branch is 'main'
+# message "fatal: A branch named 'main' already exists." is normal
+git branch main
+
+# commit new changes to local main branch
+# please change 'description of these changes' as your message
+# ex) git commit -m "add : new systems, villager land"
+git add .
+git commit -m "description of these changes"
+
+# push new changes to remote main brance
+git push
+
+# run a deply script to deploy changed docs to our server
 ./deploy.sh
 ```
 That script is doing:

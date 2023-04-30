@@ -122,6 +122,9 @@ def generate_system_list(systemMdPath: str, systemMdsPath: str):
 if __name__ == "__main__":
     print("generating systems list..")
     generate_system_list("docs/Ko/systems/systems.md", "docs/Ko/systems")
+
+    print("generating buildings list..")
+    generate_system_list("docs/Ko/buildings/buildings.md", "docs/Ko/buildings")
     print("Done!")
 else:
     raise NameError("Strange start point")

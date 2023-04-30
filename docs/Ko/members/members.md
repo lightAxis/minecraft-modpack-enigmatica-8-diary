@@ -10,7 +10,7 @@
 - [BANJUHARA](BANJUHARA.md)  
 서버팩 선택, 모드 추가 검토, 서버 관리
 
-### 서버 멤버
+### 창립 멤버 2023-04-14
 - [kidoxt](kidoxt.md)  
 몹 사냥꾼 슬레이어
 
@@ -24,6 +24,18 @@
 추가 예정
 
 - [uranium10](uranium10.md)  
+추가 예정
+
+### 추가 멤버 2023-04-21
+- [GalicOri](GarlicOri.md)  
+추가 예정
+
+### 추가 멤버 2023-04-24
+- [jdr101102](jdr101102.md)  
+추가 예정
+
+### 추가 멤버 2023-05-01
+- [EmmaSchelde](EmmaSchelde.md)  
 추가 예정
 
 - 기억나는대로 추가 예정

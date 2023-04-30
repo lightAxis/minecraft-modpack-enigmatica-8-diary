@@ -72,8 +72,12 @@ RS 시스템에 연결되어 자동으로 병렬처리하는데 사용된다.
 RS 시스템에서 자동 스멜팅에 사용하는 병렬 스멜터리 그룹.
 - [ 메카니즘 자동 인리치멘트 체임버](mk_auto_enrichment_chamber.md)  
 RS에 연결되어 자동으로 병렬 처리하는데 사용된다.
+- [ 메카니즘 핵 분열로](mk_fission_reactor.md)  
+메카니즘 모드의 대량 에너지 생산 시설이다.
 - [ 메카니즘 황산 플랜트](mk_sulfer_plant.md)  
 물과 조약돌을 가공해 황산을 만드는 공정단지임. 전기 공급은 아래쪽으로 빼서 손도 깔끔
+- [ 몹 스포터 농장](mobspawner_farm.md)  
+컴팩트 차원에서 안전하게 몹을 잡을 수 있는 방이다.
 - [ 블레이즈 킬링 챔버](blaze_killing_chamber.md)  
 블레이즈를 자동으로 생산 후 녹이는 방.
 - [ 에틸렌 발전소](mk_ethylene_generator.md)  

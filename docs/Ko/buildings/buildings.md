@@ -7,3 +7,34 @@
 
 데코의 목적 없이 단순히 비를 피하려고 지었거나
 너무 허접한 건축물은 기재되지 않습니다.
+
+### 건축물 목록
+
+<!-- systems_list_dest_open -->
+- [ Create 플랫폼](create_platform.md)  
+Create 시스템을 위한 모듈러 동력 전달 플랫폼.
+- [ 길드 하우스](guild_house.md)  
+길드의 메인 하우스. 모두의 침대가 위치해 있다.
+- [ 답없는 대나무](bamboo_hell.md)  
+서버의 대나무의 성장제한이 없어서 방치하면 정말 끝도 없이 자라서 흉물이 된다.
+- [ 바람이 머무는 식당](windy_restaurant.md)  
+풍차에서 생기는 동력으로 요리를 하는 식당.
+- [ 붉은 시계탑](red_clocktower.md)  
+이 서버 튜토리얼 이후 가장 처음 만든 건축물.
+- [ 식물의 방](room_of_plant.md)  
+보타니아를 다루는 방.
+- [ 연구소 (메인)](lab.md)  
+언덕 지하에 있는 연구소 단지.
+- [ 연구소 - 메카](lab_meka_lab.md)  
+메카니즘 및 리파인드 스토리지를 담당하는 연구실
+- [ 연구소 - 천연 연못](lab_pond.md)  
+연구소 내부의 연못.
+- [ 인벤토리의 제단](inventory_altar.md)  
+초반 인벤의 통합을 가능하게 한 오큘러스의 저장소가 위치했던 방
+- [ 지옥문](door_of_hell.md)  
+지옥으로 통하는 메인 게이트
+- [ 천문대](observatory.md)  
+create 회전 베어링을 이용한 접이식 망원경을 볼 수 있는 천문대.
+- [ 태초의 건축물](primitive_building.md)  
+서버에서 만든 최초의 건축물.
+<!-- systems_list_dest_close -->

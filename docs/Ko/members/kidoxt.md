@@ -34,6 +34,8 @@
 기계 배치 설계 및 제작
 - [철도 생성기](../systems/rail_generator.md)  
 생산라인 및 기계 배치, 설계, 제작
+- [Nature Aura 제단](../systems/na_altar.md)  
+최초 제작 설계
 - [Create 흑요석 생산 라인](../systems/create_obsidian_line.md)  
 기계 배치 설계 및 제작
 - [Blood magic Blood Altar](../systems/bl_blood_alter.md)  

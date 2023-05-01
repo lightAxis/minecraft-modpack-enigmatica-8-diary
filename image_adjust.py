@@ -55,7 +55,7 @@ if __name__ == "__main__":
 
     for path in imagePaths:
         __adjust_image(path)
-    
+
     print("Done!")
 
     # print(imagePaths)

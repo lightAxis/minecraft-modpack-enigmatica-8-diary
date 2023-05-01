@@ -11,7 +11,7 @@ Nature Altar 및 Offering Table
 
 ![asdf](../../asset/systems/na_altar/sub1.jpg)
 
-Offering Table의 특이점으로는 물건을 받치면 번개가 치면서 하늘에서 물건이 떨어져서 보는 구경은 있지만 줍는건 귀찮다.
+Offering Table의 특이점으로는 물건을 바치면 번개가 치면서 하늘에서 물건이 떨어져서 보는 구경은 있지만 줍는건 귀찮다.
 
 :::warning
 그리고 여기까지하고 깨달은 것이 거북을 만들기 위해서는 인갑이 필요한데 인갑을 얻을러면 거북이 필요하는 악순환..... 거북은 결국 얻지를 못한다.  
@@ -24,7 +24,7 @@ Alax's Mobs 모드와 충돌이 난 것일 수도 있다.
 
 ### 참여자
 <!-- player_desc_open -->
-- [kiodoxt](../members/kidoxt.md)  
+- [kidoxt](../members/kidoxt.md)  
 최초 제작 설계
 - [EconomyBang](../members/EconomyBang.md)  
 인수인계 받음

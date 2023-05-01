@@ -1,0 +1,112 @@
+@startuml TagLinker
+
+package EnumGroup{
+struct TagSource_t{
+    string TargetName
+    string TargetDesc
+    string TargetPath
+    string SourcePath
+    string SourceName
+    string SourceDesc
+    List<string> Content
+}
+
+struct TagTarget_t{
+    string Name
+    string Desc
+    string Path
+}
+
+enum TagDirection{
+    Source = 0,
+    Target = 1,
+}
+
+struct TagDesc_t{
+    TagDirection Direction
+    string TagStyle
+    string TagName
+    List<str> Content
+}
+TagDesc_t ...> TagDirection
+}
+
+
+package TagGroup{
+
+abstract TagParser{
+
+}
+
+class DescriptionTagParser extends TagParser {
+
+}
+
+class SourceInfoTagParser extends TagParser{
+
+}
+
+class CopyTagParser extends TagParser  {
+
+}
+
+class FrameTageParser extends TagParser {
+
+}
+
+
+abstract TagGenerator{
+
+}
+
+class ReverseLinkTagGen extends TagGenerator{
+
+}
+
+
+class ListTagGen extends TagGenerator{
+
+}
+
+class ListInFolderTagGen extends TagGenerator{
+
+}
+
+class PasteTageGenerator extends TagGenerator{
+
+}
+
+class FrameTagGenerator extends TagGenerator{
+
+}
+
+
+
+interface ITagExtractor{
+    + {abstract} List<TagDesc_t> extractTagInfosFromFile(filepath: str)
+}
+
+class DefaultTagExtractor extends ITagExtractor{
+    + List<TagDesc_t> extractTagInfosFromFile(filepath: str)
+}
+
+
+
+class TagLinker{
+- List<TagParser> _tagParsers
+- List<TagGenerator> _tagGenerators
+
++ SetTagExtractor(extractor: ITagExtractor)
++ AddTagParser(parser: TagParser)
++ AddTagGenerator(gen: TagGenerator)
+}
+
+TagLinker ---> TagParser
+TagLinker ---> TagGenerator
+TagLinker ---> ITagExtractor
+}
+
+TagGroup ...> EnumGroup
+
+
+@enduml

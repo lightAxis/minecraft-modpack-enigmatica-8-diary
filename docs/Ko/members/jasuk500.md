@@ -77,6 +77,8 @@
 시스템 총괄 / 개발 / 스토리지 엑세서 배포 / 유지보수
 - [네더 금 농장](../systems/nether_gold_farm.md)  
 텔레포터 배치 / RS 네트워크 연결 관리
+- [레이저 드릴](../systems/laser_drill.md)  
+기계 배치 및 제작
 - [리파인드 스토리지 크래프터 룸](../systems/rs_crafters.md)  
 설계, 제작, 텔레포터 허브 연결
 - [메카니즘 자동 메탈러직 인퓨져](../systems/mk_auto_metallurgic_infuser.md)  

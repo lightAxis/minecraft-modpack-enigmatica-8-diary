@@ -46,7 +46,7 @@
 - [메카니즘 인덕션 메트릭스](../systems/mk_induction_matrix.md)  
 유도 매트릭스 규모 산정 / 설계 및 제작 / 유지보수
 - [레이저 드릴](../systems/laser_drill.md)  
-기계 배치 및 제작
+최초 시작
 - [에틸렌 발전소](../systems/mk_ethylene_generator.md)  
 파워 플랜트 설계 및 제작
 - [메카니즘 수동 프로세서들](../systems/mk_manual_processors.md)  

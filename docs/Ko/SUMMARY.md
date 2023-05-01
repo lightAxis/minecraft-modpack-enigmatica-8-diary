@@ -38,6 +38,7 @@
   * [네더 금 농장](systems/nether_gold_farm.md)
   * [오컬티즘 매직 스토리지](systems/occultism_magic_storage.md)
   * [컴팩트 머신 방 보관소](systems/cm_compactmachine_main.md)
+  * [텔레포터 허브](systems/teleporter_hub.md)
   * [메카니즘 에틸렌 발전기](systems/mk_ethylene_generator.md)
   * [메카니즘 광물 정제 플랜트](systems/mk_ore_processing_plant.md)
   * [메카니즘 황산 플렌트](systems/mk_sulfer_plant.md)
@@ -69,4 +70,4 @@
   * [Blood magic Edge of The Hidden Realm](systems/bl_edge_of_the_hidden_realm.md)
   * [Blood magic Pathway to The Endless Realm](systems/bl_pathway_to_the_endless_realm.md)
   * [Blood magic Blood Altar](systems/bl_blood_alter.md)
-  * [텔레포터 허브](systems/teleporter_hub.md)
+  * [Nature's Aurora - Altar](systems/na_altar.md)

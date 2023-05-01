@@ -38,6 +38,8 @@
 create의 모든 케이스를 생산 할 수 있는 자동화 라인.
 - [ Create 흑요석 생산 라인](create_obsidian_line.md)  
 유리블럭으로 둘러싸여 있어서 보수한다고 몇번이나 깨먹었다
+- [ Nature Aura 제단](na_altar.md)  
+Nature's Aura 모드의 기본 제단
 - [ 광물 가공 플랜트](mk_ore_processing_plant.md)  
 황산과 염화수소는 외부에 지은 황산 제조공정에서 긴빠이해서 사용하는 덕분에 굉장히 간소해짐
 - [ 나무 농장 (크리에이트 카트)](tree_farm_create_cart.md)  

@@ -35,7 +35,7 @@
 추가 예정
 
 ### 추가 멤버 2023-05-01
-- [EmmaSchelde](EmmaSchelde.md)  
+- [EconomyBang](EconomyBang.md)  
 추가 예정
 
 - 기억나는대로 추가 예정

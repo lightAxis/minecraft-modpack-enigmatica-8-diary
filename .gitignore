@@ -16,3 +16,5 @@ docs/.vuepress/dist
 
 #backup files
 *.bak
+
+**/__pycache__

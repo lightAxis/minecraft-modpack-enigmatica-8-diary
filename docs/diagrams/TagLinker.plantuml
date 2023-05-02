@@ -82,12 +82,26 @@ class FrameTagGenerator extends TagGenerator{
 
 
 
-interface ITagExtractor{
+abstract TagExtractor{
     + {abstract} List<TagDesc_t> extractTagInfosFromFile(filepath: str)
 }
 
-class DefaultTagExtractor extends ITagExtractor{
+class DefaultTagExtractor extends TagExtractor{
     + List<TagDesc_t> extractTagInfosFromFile(filepath: str)
+}
+
+abstract LinkExtractor{
+}
+
+class DefaultLinkExtractor extends LinkExtractor{
+
+}
+
+abstract NameDescExtractor{
+
+}
+class DefaultNameDescExtractor extends NameDescExtractor{
+
 }
 
 
@@ -96,14 +110,16 @@ class TagLinker{
 - List<TagParser> _tagParsers
 - List<TagGenerator> _tagGenerators
 
-+ SetTagExtractor(extractor: ITagExtractor)
++ SetTagExtractor(extractor: TagExtractor)
 + AddTagParser(parser: TagParser)
 + AddTagGenerator(gen: TagGenerator)
 }
 
 TagLinker ---> TagParser
 TagLinker ---> TagGenerator
-TagLinker ---> ITagExtractor
+TagLinker ---> TagExtractor
+TagLinker ---> LinkExtractor
+TagLinker ---> NameDescExtractor
 }
 
 TagGroup ...> EnumGroup

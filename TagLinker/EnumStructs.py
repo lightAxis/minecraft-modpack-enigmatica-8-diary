@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from dataclasses import dataclass, field
-from typing import List, Dict
+from typing import List, Dict, Union, Tuple
 from enum import Enum
 
 
@@ -10,6 +10,7 @@ class TagType(Enum):
     """
     OPEN = 1,
     CLOSE = 2,
+    ARGUMENT = 3,
 
 
 class TagDirection(Enum):
@@ -30,22 +31,21 @@ class tag_desc_t:
     """
     TagStyle: str = ""
     TagName: str = ""
+    TagStr: str = ""
+    """Whole tag string line
+    """
     Content: List[str] = field(default_factory=list)
     """Whole content lines inside this tag pair
+    """
+    ArgDict: Dict[str, str] = field(default_factory=dict)
+    """list of Arguments in here. [key, value]
     """
 
 
 @dataclass
-class tag_target_t:
+class link_pair_t:
     Name: str = ""
-    """Name of this target document
-    """
-    Desc: str = ""
-    """Description of this target document
-    """
-    Path: str = ""
-    """Target document Path relative to main python exec
-    """
+    LinkPath: str = ""
 
 
 @dataclass
@@ -53,7 +53,7 @@ class tag_source_t:
     TargetName: str = ""
     """Name of target document
     """
-    TargetDesc: str = ""
+    TargetDesc: List[str] = field(default_factory=list)
     """Description of target document
     """
     TargetPath: str = ""

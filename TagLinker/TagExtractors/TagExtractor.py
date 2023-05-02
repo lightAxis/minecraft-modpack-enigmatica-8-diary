@@ -14,14 +14,10 @@ import copy
 
 class TagExtractor(metaclass=ABCMeta):
     @abstractmethod
-    def _extractInfoFromLine(self, line: str) -> Optional[tag_desc_t]:
+    def extractFromLine(self, line: str) -> Optional[tag_desc_t]:
         pass
 
-    @abstractclassmethod
-    def _extractNameDescFromLines(self, lines: List[str]) -> Tuple[bool, str, str]:
-        pass
-
-    def extractTagInfosFromFile(self, filepath: str) -> List[tag_desc_t]:
+    def extractFromFile(self, filepath: str) -> List[tag_desc_t]:
         temp_tag_descs: List[tag_desc_t] = []
 
         f = open(filepath, 'r')
@@ -35,7 +31,7 @@ class TagExtractor(metaclass=ABCMeta):
         for line in lines:
             line_num = line_num + 1
 
-            tag_desc = self._extractInfoFromLine(line)
+            tag_desc = self.extractFromLine(line)
 
             # cut lines outside of tag area
             if (not extracting_content and tag_desc == None):
@@ -55,6 +51,20 @@ class TagExtractor(metaclass=ABCMeta):
                 extracting_content = True
                 curr_tag_desc = copy.deepcopy(tag_desc)
                 lastTagLine_num = line_num
+                continue
+
+            # detecting arg tag
+            if tag_desc.Type == TagType.ARGUMENT:
+                if (not extracting_content):
+                    raise Exception("at file : " + filepath +
+                                    "\nat line #" + str(line_num) + " : " + line +
+                                    "\ntag args is not between tag open & close")
+                if (curr_tag_desc.ArgDict.get(tag_desc.TagStyle) != None):
+                    raise Exception("at file : " + filepath +
+                                    "\nat line #" + str(line_num) + " : " + line +
+                                    "\ntag args are duplicated! : " + tag_desc.TagStyle)
+
+                curr_tag_desc.ArgDict[tag_desc.TagStyle] = tag_desc.TagName
                 continue
 
             # detecting close tag

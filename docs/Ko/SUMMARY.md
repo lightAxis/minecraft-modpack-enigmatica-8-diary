@@ -11,6 +11,7 @@
   * [GalicOri](members/GarlicOri.md)
   * [jdr101102](members/jdr101102.md)
   * [EconomyBang](members/EconomyBang.md.md)
+  * [gweeaa](members/gweeaa.md)
 * [건축물](buildings/buildings.md)
   * [답없는 대나무](buildings/bamboo_hell.md)
   * [Create 플랫폼](buildings/create_platform.md)

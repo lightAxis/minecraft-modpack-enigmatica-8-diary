@@ -11,7 +11,7 @@
 ![외관](../../asset/systems/cooking_bunker/deco.jpg)
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  
 건물 디자인 및 자동화 설계 / 제작
-<!-- player_desc_close-->
+<!-- tag_close-->

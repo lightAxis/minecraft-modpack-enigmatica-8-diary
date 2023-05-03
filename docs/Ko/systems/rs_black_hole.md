@@ -80,7 +80,7 @@ RS 시스템 외부에서 볼때는 아이템의 개수가 전혀 변하지 않�
 ![asdf](../../asset/systems/rs_black_hole/gate.jpg)
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 설계, 제작, 텔레포터 허브 연결
-<!-- player_desc_close-->
+<!-- tag_close-->

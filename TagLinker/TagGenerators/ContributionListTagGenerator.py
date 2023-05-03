@@ -10,6 +10,7 @@ import os
 from typing import List, Dict, Optional
 from abc import *
 import copy
+import operator
 
 
 class ContributionListTagGenerator(TagGenerator):
@@ -20,7 +21,10 @@ class ContributionListTagGenerator(TagGenerator):
         new_lines: List[str] = []
 
         dir = os.path.dirname(tagInfo.FilePath)
-        for tagSource in tagsources:
+
+        sortedTagSources = sorted(
+            tagsources, key=operator.attrgetter('SourceName'))
+        for tagSource in sortedTagSources:
             if (tagInfo.FileName != tagSource.TargetName):
                 continue
             # reverse link to tagSource

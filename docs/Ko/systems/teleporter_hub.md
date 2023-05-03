@@ -15,7 +15,7 @@
 이 시설이 없으면, 컴팩트 머신 차원 안의 다른 시설들을 사용할 때, 매번 밖으로 나간 다음 다시 들어가야 한다. 
 
 ## 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 시스템 설계 / 제작 / 유지보수
-<!-- player_desc_close -->
+<!-- tag_close -->

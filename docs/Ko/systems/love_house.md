@@ -6,7 +6,7 @@
 ![메인2](../../asset/systems/love_house/main2.jpg)
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  
 최다우수이용고객
-<!-- player_desc_close-->
+<!-- tag_close-->

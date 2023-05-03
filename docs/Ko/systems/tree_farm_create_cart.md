@@ -19,9 +19,9 @@
 :::
 
 ## 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 기획 및 시스템 개발
 - [happyjourney](../members/happyjourney.md)  
 케이싱 데코
-<!-- player_desc_close -->
+<!-- tag_close -->

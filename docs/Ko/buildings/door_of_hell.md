@@ -9,7 +9,7 @@
 이걸 시험기간에 지으면서 학점도 같이 지옥갔다고 전해진다.
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [happyjourney](../members/happyjourney.md)  
 건축
-<!-- player_desc_close-->
+<!-- tag_close-->

@@ -9,7 +9,7 @@
 지금은 사용하지 않지만, 부시기도 뭐해서 냅둔 상태다.
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [happyjourney](../members/happyjourney.md)  
 건축
-<!-- player_desc_close-->
+<!-- tag_close-->

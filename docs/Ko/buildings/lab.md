@@ -11,7 +11,7 @@ lab의 비밀 랩의 길은 사실 π모양으로 되어있었다.
 ![asdf](../../asset/buildings/lab/main.jpg)
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [happyjourney](../members/happyjourney.md)  
 건축
-<!-- player_desc_close-->
+<!-- tag_close-->

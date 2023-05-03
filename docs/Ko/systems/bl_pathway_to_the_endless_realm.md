@@ -7,7 +7,7 @@
 ![메인](../../asset/systems/bl_pathway_to_the_endless_realm/main.jpg)
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 제단 탐색 및 제단 제작
-<!-- player_desc_close-->
+<!-- tag_close-->

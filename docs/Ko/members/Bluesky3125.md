@@ -22,5 +22,5 @@
 
 ## 참여 목록
 
-<!-- player_desc_dest_open -->
-<!-- player_desc_dest_close -->
+<!-- tag_target_open:contribution_list:member_contribute -->
+<!-- tag_close -->

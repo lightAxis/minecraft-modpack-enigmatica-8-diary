@@ -9,9 +9,9 @@
 ![asdf](../../asset/systems/rail_generator/sub1.jpg)
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 생산라인 및 기계 배치, 설계, 제작
 - [happyjourney](../members/happyjourney.md)  
 주변 공간 데코
-<!-- player_desc_close-->
+<!-- tag_close-->

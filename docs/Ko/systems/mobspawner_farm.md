@@ -5,9 +5,9 @@
 ![asdf](../../asset/systems/mobspawner_farm/main.jpg)
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 가스트 몹 스포너로 제작
 - [BANJUHARA](../members/BANJUHARA.md)  
 몹 스포터 룸으로 개조
-<!-- player_desc_close-->
+<!-- tag_close-->

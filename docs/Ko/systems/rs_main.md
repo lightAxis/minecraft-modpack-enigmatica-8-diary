@@ -44,11 +44,11 @@ Crafter Manager를 사용하면 네트워크에 연결된 모든 Crafter에 접�
 위에 지어질 예정인 중세 컨셉 마을 지하에 있는 비밀 연구소 설정으로 데코가 진행되고 있다.
 
 # 참여
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 시스템 총괄 및 유지보수
 - [BANJUHARA](../members/BANJUHARA.md)  
 시스템 유지보수 및 기능 추가
 - [happyjourney](../members/happyjourney.md)  
 주변 공간 데코 및 외관 디자인
-<!-- player_desc_close -->
+<!-- tag_close -->

@@ -9,9 +9,9 @@
 ![서브](../../asset/systems/ie_garden_clothe/sub.jpg)
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 기계 배치 설계 및 제작
 - [happyjourney](../members/happyjourney.md)  
 주변 공간 데코
-<!-- player_desc_close-->
+<!-- tag_close-->

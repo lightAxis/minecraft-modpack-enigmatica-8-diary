@@ -10,7 +10,7 @@
 
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  
 파이프라인 설계 및 제작
-<!-- player_desc_close-->
+<!-- tag_close-->

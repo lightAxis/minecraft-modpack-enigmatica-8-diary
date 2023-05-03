@@ -34,9 +34,9 @@ Storage Drawer를 사용하여 대량의 아이템을 저장할 수 있게 되�
 [Refined Storage](rs_main.md)
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 시스템 총괄 / 개발 / 스토리지 엑세서 배포 / 유지보수
 - [happyjourney](../members/happyjourney.md)  
 케이싱 데코
-<!-- player_desc_close-->
+<!-- tag_close-->

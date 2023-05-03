@@ -5,9 +5,9 @@
 ![메인](../../asset/systems/mk_ethylene_generator/main.jpg)
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  
 파워 플랜트 설계 및 제작
 - [happyjourney](../members/happyjourney.md)  
 주변 공간 데코
-<!-- player_desc_close-->
+<!-- tag_close-->

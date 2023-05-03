@@ -30,7 +30,7 @@ RS는 Crafter Manager라는 블럭을 통해, 네트워크에 연결된 모든 C
 ![adf](../../asset/systems/rs_crafters/gate.jpg)
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 설계, 제작, 텔레포터 허브 연결
-<!-- player_desc_close-->
+<!-- tag_close-->

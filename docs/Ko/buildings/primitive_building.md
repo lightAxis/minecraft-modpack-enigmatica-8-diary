@@ -10,7 +10,7 @@
 "모두 이상한 건축물로 오세여"
 
 ### 참여자
-<!-- player_desc_open -->
+<!-- tag_source_open:description:member_contribute -->
 - [happyjourney](../members/happyjourney.md)  
 건축
-<!-- player_desc_close-->
+<!-- tag_close-->

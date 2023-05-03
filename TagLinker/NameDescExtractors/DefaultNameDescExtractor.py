@@ -13,6 +13,8 @@ from .NameDescExtractor import NameDescExtractor
 class DefaultNameDescExtractor(NameDescExtractor):
     def extractFromFileLines(self, lines: List[str]) -> Tuple[bool, str, str]:
         find_name: bool = False
+        resultDesc: str = ""
+        resultName: str = ""
         for line in lines:
             NameIndex = line.find("# ")
 

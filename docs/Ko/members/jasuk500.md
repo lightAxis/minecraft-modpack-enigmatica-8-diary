@@ -84,3 +84,11 @@
 - [메카니즘 자동 메탈러직 인퓨져](../systems/mk_auto_metallurgic_infuser.md)  
 자동화 라인 설계 및 제작
 <!-- player_desc_dest_close -->
+
+
+### 이것은 테스트존
+
+<!-- tag_target_open:contribution_list:member_contribute -->
+- [주민팜 및 인챈트 주민 모음](../systems/viliager_farm.md)  
+이것은 순전히 테스트임
+<!-- tag_close -->

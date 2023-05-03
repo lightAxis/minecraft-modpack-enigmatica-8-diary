@@ -6,10 +6,11 @@
 
 처음 이곳에서 리파인드 스토리지가 시작됐다.
 
-:::tip 길드 아이템 스토리지 시스템 변천사
-마인크래프트 기본 체스트 -> Storage Drawers -> [Occultism magin storage](occultism_magic_storage.md) -> **Refined Storage**  
+<!-- tag_target_open:frame:item_stroage_generations -->
+:::tip 아이템 스토리지 시스템 변천사
+마인크래프트 기본 체스트 -> Storage Drawers ->[Occultism Magic Storage](occultism_magic_storage.md) -> [Refined Storage](rs_main.md)  
 :::
-
+<!-- tag_close -->
 현재 우리 길드의 4세대 아이템 스토리지 시스템이자, 최종 단계이다.
 
 Refined Storage는 기술모드의 꽃이자, 시스템 통합을 위한 필수 모드로 많은 모드팩에서 사용되고 있다.

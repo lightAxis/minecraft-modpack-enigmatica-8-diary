@@ -135,9 +135,9 @@ class TagLinker:
             # get tag generator for this tag
             tagGenerator = self._TagGenerators[taginfo.TagStyle]
 
-            # if not tag source found for this tag name, skip
-            if (tagSourcesDict.get(taginfo.TagName) == None):
-                continue
+            # # if not tag source found for this tag name, skip
+            # if (tagSourcesDict.get(taginfo.TagName) == None):
+            #     continue
 
             f = open(taginfo.FilePath, 'r')
             lines = f.readlines()
@@ -145,8 +145,15 @@ class TagLinker:
 
             print("Generating Tag content in file : " + taginfo.FilePath)
             print("TagGenerator: " + tagGenerator.getGeneratorType())
+            new_lines: List[str] = []
+            tagSources: List[tag_source_t] = []
+            if (tagSourcesDict.get(taginfo.TagName) != None):
+                tagSources = tagSourcesDict[taginfo.TagName]
+            else:
+                tagSources = []
+
             new_lines = tagGenerator.Generate_inLines(
-                lines, taginfo, tagSourcesDict[taginfo.TagName], extractors)
+                lines, taginfo, tagSources, extractors)
 
             print("Generated " + str(len(new_lines)) + " lines inside tag")
             print("Write new file at :" + taginfo.FilePath)

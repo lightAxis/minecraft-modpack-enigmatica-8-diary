@@ -5,9 +5,11 @@
 ![asdf](../../asset/systems/occultism_magic_storage/storage_look.jpg)
 
 
-:::tip 길드 아이템 스토리지 시스템 변천사
-마인크래프트 기본 체스트 -> Storage Drawers -> **Occultism Magic Storage** -> [Refined Storage](rs_main.md)  
+<!-- tag_target_open:frame:item_stroage_generations -->
+:::tip 아이템 스토리지 시스템 변천사
+마인크래프트 기본 체스트 -> Storage Drawers ->[Occultism Magic Storage](occultism_magic_storage.md) -> [Refined Storage](rs_main.md)  
 :::
+<!-- tag_close -->
 
 오컬티즘 매직 스토리지는 우리 길드의 3세대 아이템 저장 시스템이다.
 

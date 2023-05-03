@@ -24,6 +24,7 @@
 ## 참여 목록
 
 <!-- tag_target_open:contribution_list:member_contribute -->
-- [Nature Aura 제단](../systems/na_altar.md)  
-인수인계 받음
+|--|--|
+|항목|내용|
+|[Nature Aura 제단](../systems/na_altar.md)|인수인계 받음|
 <!-- tag_close -->

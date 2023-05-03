@@ -24,15 +24,20 @@ class ContributionListTagGenerator(TagGenerator):
 
         sortedTagSources = sorted(
             tagsources, key=operator.attrgetter('SourceName'))
+
         for tagSource in sortedTagSources:
             if (tagInfo.FileName != tagSource.TargetName):
                 continue
-            # reverse link to tagSource
-            line1 = "- [" + tagSource.SourceName + \
-                "](" + os.path.relpath(tagSource.SourcePath, dir)+")  \n"
-            # description is same
-            lines2 = tagSource.TargetDesc
-            new_lines.append(line1)
-            new_lines.extend(lines2)
+
+            linkpair: link_pair_t = link_pair_t()
+            linkpair.Name = tagSource.SourceName
+            linkpair.LinkPath = os.path.relpath(tagSource.SourcePath, dir)
+            line1 = extractors.Link.GenerateLinkPairStr(linkpair)
+            line2 = tagSource.TargetDesc[0][0:-1]
+            new_lines.append("|"+line1+"|"+line2+"|\n")
+
+        if (len(new_lines) >= 1):
+            new_lines.insert(0, "|항목|내용|\n")
+            new_lines.insert(0, "|--|--|\n")
 
         return new_lines

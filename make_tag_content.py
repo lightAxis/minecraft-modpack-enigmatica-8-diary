@@ -13,6 +13,7 @@ if __name__ == "__main__":
     tagLinker.add_TagParser(CopyTagParser())
 
     tagLinker.add_TagGenerator(ContributionListTagGenerator())
+    tagLinker.add_TagGenerator(FrameTagGenerator())
 
     tagLinker.LinkTargets("docs/Ko")
     pass

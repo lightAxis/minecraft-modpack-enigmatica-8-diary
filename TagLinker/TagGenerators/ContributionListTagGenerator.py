@@ -37,7 +37,7 @@ class ContributionListTagGenerator(TagGenerator):
             new_lines.append("|"+line1+"|"+line2+"|\n")
 
         if (len(new_lines) >= 1):
-            new_lines.insert(0, "|항목|내용|\n")
             new_lines.insert(0, "|--|--|\n")
+            new_lines.insert(0, "|항목|내용|\n")
 
         return new_lines

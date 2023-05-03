@@ -49,8 +49,8 @@
 ## 참여 목록
 
 <!-- tag_target_open:contribution_list:member_contribute -->
-|--|--|
 |항목|내용|
+|--|--|
 |[광물 가공 플랜트](../systems/mk_ore_processing_plant.md)|텔레포터 배치|
 |[나무 농장 (크리에이트 카트)](../systems/tree_farm_create_cart.md)|기획 및 시스템 개발|
 |[네더 금 농장](../systems/nether_gold_farm.md)|텔레포터 배치 / RS 네트워크 연결 관리|

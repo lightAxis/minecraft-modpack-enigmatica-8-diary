@@ -23,8 +23,8 @@
 ## 참여 목록
 
 <!-- tag_target_open:contribution_list:member_contribute -->
-|--|--|
 |항목|내용|
+|--|--|
 |[광물 가공 플랜트](../systems/mk_ore_processing_plant.md)|파이프라인 설계 및 제작 / 유지보수|
 |[러브하우수 ](../systems/love_house.md)|최다우수이용고객|
 |[레이저 드릴](../systems/laser_drill.md)|최초 시작|

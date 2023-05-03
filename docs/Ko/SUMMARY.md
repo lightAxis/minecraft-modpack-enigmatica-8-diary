@@ -72,3 +72,4 @@
   * [Blood magic Pathway to The Endless Realm](systems/bl_pathway_to_the_endless_realm.md)
   * [Blood magic Blood Altar](systems/bl_blood_alter.md)
   * [Nature's Aurora - Altar](systems/na_altar.md)
+* [틀](frames/frames_systems.md)

@@ -4,6 +4,12 @@
 
 ![asdf](../../asset/systems/mk_induction_matrix/main.jpg)
 
+<!-- tag_target_open:frame:energy_storage_generations -->
+:::tip 에너지 저장 시스템 변천사
+메카니즘 에너지 큐브 -> [메카니즘 유도 매트릭스](mk_induction_matrix.md)
+:::
+<!-- tag_close -->
+
 멀티블럭 구조는 어떤 에너지 저장량을 요구해도 유연하게 대처할 수 있는 좋은 방식이다.  
 에너지 저장량은 에너지 사용량과, 비상시에 에너지를 얼마나 버팉 수 있느냐와도 직결되는 문제이므로 큰 에너지 저장소를 확보하는것은 기술모드 전반에 있어서 매우 중요한 문제이다.
 

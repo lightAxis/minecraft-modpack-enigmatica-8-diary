@@ -23,8 +23,8 @@
 ## 참여 목록
 
 <!-- tag_target_open:contribution_list:member_contribute -->
-|--|--|
 |항목|내용|
+|--|--|
 |[Create 강판 생산 라인](../systems/create_plate_line.md)|주변 공간 데코|
 |[Create 메카니컬 조합기](../systems/create_mechanical_crafter.md)|주변 공간 데코|
 |[Create 반자동 안산암 합금 생성기](../systems/create_semiauto_andesite_alloy_maker.md)|주변 공간 데코|

@@ -34,8 +34,8 @@
 |[메카니즘 수동 프로세서들](../systems/mk_manual_processors.md)|기계 배치 및 파이프라인 설계 / 제작|
 |[메카니즘 인덕션 메트릭스](../systems/mk_induction_matrix.md)|유도 매트릭스 규모 산정 / 설계 및 제작 / 유지보수|
 |[메카니즘 자동 메탈러직 인퓨져](../systems/mk_auto_metallurgic_infuser.md)|초기 자동화 라인 개발 참여|
-|[메카니즘 자동 스멜터 프로세서](../systems/mk_auto_smeltery.md)|초기 자동화 라인 개발 참여|
-|[메카니즘 자동 인리치멘트 체임버](../systems/mk_auto_enrichment_chamber.md)|초기 자동화 라인 개발 참여|
+|[메카니즘 자동 병렬 스멜터](../systems/mk_auto_smeltery.md)|초기 자동화 라인 개발 참여|
+|[메카니즘 자동 병렬 인리치멘트 체임버](../systems/mk_auto_enrichment_chamber.md)|초기 자동화 라인 개발 참여|
 |[메카니즘 핵 분열로](../systems/mk_fission_reactor.md)|핵 분열로 설계 및 제작 / 유지보수|
 |[메카니즘 황산 플랜트](../systems/mk_sulfer_plant.md)|파이프라인 설계 및 제작|
 |[몹 스포터 농장](../systems/mobspawner_farm.md)|몹 스포터 룸으로 개조|

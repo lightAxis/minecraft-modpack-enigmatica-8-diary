@@ -26,7 +26,7 @@
 ### 보유 시설 목록
 |시설|세부 사항|
 |---|---|
-|[오컬티즘 매직 스토리지](../systems/occultism_magic_storage.md)|아이템 네트워크를 사용한 대량 아이템 스토리지.|
+|[오컬티즘 매직 스토리지](../systems/occultism_magic_storage.md)||
 <!-- tag_close -->
 
 

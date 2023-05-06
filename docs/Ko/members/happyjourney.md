@@ -38,6 +38,7 @@
 |[연구소 - 메카](../buildings/lab_meka_lab.md)|건축|
 |[연구소 - 천연 연못](../buildings/lab_pond.md)|건축|
 |[인벤토리의 제단](../buildings/inventory_altar.md)|건축|
+|[자동 몹 농장](../systems/auto_mob_farm.md)|시스템 설계 보조 및 제작|
 |[지옥문](../buildings/door_of_hell.md)|건축|
 |[천문대](../buildings/observatory.md)|건축|
 |[태초의 건축물](../buildings/primitive_building.md)|건축|

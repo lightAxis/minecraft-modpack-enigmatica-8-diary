@@ -1,11 +1,11 @@
-# 메카니즘 자동 스멜터 프로세서
+# 메카니즘 자동 병렬 스멜터
 
-RS 시스템에서 자동 스멜팅에 사용하는 병렬 스멜터리 그룹.
+32*9개의 쓰레드로 수천개의 아이템을 1분내에 구울 수 있다.
 
 ![asdf](../../asset/systems/mk_auto_smeltery/main.jpg)
 
-스멜터의 모든 조합법은 단일 입력, 단일 출력 방식이므로 XNet을 사용하여 쉽게 자동화할 수 있다.\
-현재 4개의 Elite Smeltery factort 블럭이 연결되어 있다.
+스멜터의 모든 조합법은 단일 입력, 단일 출력 방식이므로 XNet을 사용하여 쉽게 자동화할 수 있다.
+현재 32개의 Elite Smeltery factory 블럭이 연결되어 있다.
 
 :::tip
 XNet은 전력, 아이템, 유체까지 전부 node만 연결되어있다면 통신이 가능하므로, 이런 협소한 공간에서 매우 좋다. 
@@ -18,17 +18,22 @@ Xnet을 통해 다음과 같이 라우팅된다.
 
 ![sdf](../../asset/systems/mk_auto_smeltery/RS_Xnet_piping.jpg)
 
-:::warning
-현재 RS에서 제공되는 기본 Crafter의 아이템 출력 속도가 너무 느려, 지금 달려있는 모든 스멜터를 풀가동 시킬 수 없다.  
-:::
 
-:::tip Future Work
-이에 Extra Storage 애드온을 깔아 상위 티어의 Crafter를 사용함으로써 이 아이템 처리 병목이 해결될 수 있다.
-:::
+
+### 2023-05-06 대량 병렬 처리를 위해 32*9스레드 구조로 변경됨
+
+이전
+![asdf](../../asset/systems/mk_auto_smeltery/old.jpg)
+
+이후
+![asdf](../../asset/systems/mk_auto_smeltery/main.jpg)
+
 
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
-- [연구소 - 메카](../buildings/lab_meka_lab.md)
+- 컴팩트 머신 차원
+- [연구소 - 메카](../buildings/lab_meka_lab.md)  
+지금은 규모가 커져 컴팩트 머신 차원으로 옮겨졌다.
 <!-- tag_close -->
 
 ### 참여자

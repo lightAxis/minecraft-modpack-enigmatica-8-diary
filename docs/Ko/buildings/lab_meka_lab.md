@@ -28,12 +28,17 @@
 ### 보유 시설 목록
 |시설|세부 사항|
 |---|---|
-|[리파인드 스토리지 (메인)](../systems/rs_main.md)|리파인드 스토리지의 메인 컨트롤러가 위치한 장소|
-|[메카니즘 자동 메탈러직 인퓨져](../systems/mk_auto_metallurgic_infuser.md)|RS 시스템에 연결되어 자동으로 병렬처리하는데 사용된다.|
-|[메카니즘 자동 스멜터 프로세서](../systems/mk_auto_smeltery.md)|RS 시스템에서 자동 스멜팅에 사용하는 병렬 스멜터리 그룹.|
-|[메카니즘 자동 인리치멘트 체임버](../systems/mk_auto_enrichment_chamber.md)|RS에 연결되어 자동으로 병렬 처리하는데 사용된다.|
-|[에틸렌 발전소](../systems/mk_ethylene_generator.md)|농작물을 연료로 가공해 만든 에틸렌을 가스 버닝 제너레이터가 태우는 메인 발전 시설로, 틱당 약 15만FE를 생산함|
-|[컴팩트 머신 메인](../systems/cm_compactmachine_main.md)|모든 컴팩트 머신 본체 보관소|
+|[리파인드 스토리지 (메인)](../systems/rs_main.md)||
+|[메카니즘 자동 메탈러직 인퓨져](../systems/mk_auto_metallurgic_infuser.md)||
+|[메카니즘 자동 병렬 스멜터](../systems/mk_auto_smeltery.md)|지금은 규모가 커져 컴팩트 머신 차원으로 옮겨졌다.|
+|[메카니즘 자동 병렬 인리치멘트 체임버](../systems/mk_auto_enrichment_chamber.md)|지금은 이곳에서 규모가 커짐에 따라 컴팩트 머신 차원으로 옮겼다|
+|[메카니즘 자동 병렬 크러셔](../systems/mk_auto_crushers.md)|지금은 컴팩트 머신 차원으로 옮겨졌다.|
+|[메카니즘 자동 컴프레싱 머신](../systems/mk_auto_compressing.md)||
+|[써멀 익스팬션 자동 마그마 크루시블](../systems/te_auto_magma_crucible.md)||
+|[써멀 익스팬션 자동 인덕션 스멜터](../systems/te_auto_induction_smelter.md)||
+|[써멀 익스팬션 자동 플루이드 인캡슐레이터 - 물](../systems/te_auto_fluid_encapsulator_water.md)||
+|[에틸렌 발전소](../systems/mk_ethylene_generator.md)||
+|[컴팩트 머신 메인](../systems/cm_compactmachine_main.md)|RS 시설 바로 옆에 위치하고 있다.|
 <!-- tag_close -->
 
 ### 참여자

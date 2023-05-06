@@ -91,7 +91,7 @@ class ReverseLinkListTagGenerator(TagGenerator):
             tagInfo.ArgDict["header"] = "### 보유 시설 목록"
             tagInfo.ArgDict["list_type"] = "table"
             tagInfo.ArgDict["table_header"] = "|시설|세부 사항|"
-            tagInfo.ArgDict["desc_type"] = "source"
+            tagInfo.ArgDict["desc_type"] = "target"
         elif (arg_preset_type == "spots_inside"):
             tagInfo.ArgDict["header"] = "### 하위 장소 목록"
             tagInfo.ArgDict["list_type"] = "table"

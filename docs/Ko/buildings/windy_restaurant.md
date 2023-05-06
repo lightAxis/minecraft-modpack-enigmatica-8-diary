@@ -23,7 +23,7 @@
 ### 보유 시설 목록
 |시설|세부 사항|
 |---|---|
-|[쿠킹 벙커](../systems/cooking_bunker.md)|모든 파머스 딜라이트 요리를 목표로 하는 쿠킹 벙커|
+|[쿠킹 벙커](../systems/cooking_bunker.md)||
 <!-- tag_close -->
 
 ### 참여자

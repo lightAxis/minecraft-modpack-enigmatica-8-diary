@@ -52,6 +52,8 @@
   * [메카니즘 자동 메탈러직 인퓨져](systems/mk_auto_metallurgic_infuser.md)
   * [메카니즘 자동 컴프레싱 머신](systems/mk_auto_compressing.md)
   * [메카니즘 인덕션 메트릭스](systems/mk_induction_matrix.md)
+  * [메카니즘 핵 분열로](systems/mk_fission_reactor.md)
+  * [메카니즘 핵 융합로](systems/mk_fusion_reactor.md)
   * [리파인드 스토리지 (메인)](systems/rs_main.md)
   * [리파인드 스토리지 네트워크 트랜젝션](systems/rs_network_tranjection.md)
   * [리파인드 스토리지 블랙홀 룸](systems/rs_black_hole.md)

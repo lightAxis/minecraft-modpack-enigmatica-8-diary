@@ -37,6 +37,7 @@
 |[메카니즘 자동 병렬 스멜터](../systems/mk_auto_smeltery.md)|초기 자동화 라인 개발 참여|
 |[메카니즘 자동 병렬 인리치멘트 체임버](../systems/mk_auto_enrichment_chamber.md)|초기 자동화 라인 개발 참여|
 |[메카니즘 핵 분열로](../systems/mk_fission_reactor.md)|핵 분열로 설계 및 제작 / 유지보수|
+|[메카니즘 핵 융합로](../systems/mk_fusion_reactor.md)|핵 융합로 설계 제작 및 유지보수|
 |[메카니즘 황산 플랜트](../systems/mk_sulfer_plant.md)|파이프라인 설계 및 제작|
 |[몹 스포터 농장](../systems/mobspawner_farm.md)|몹 스포터 룸으로 개조|
 |[블레이즈 킬링 챔버](../systems/blaze_killing_chamber.md)|자동화 설계 및 제작|

@@ -8,7 +8,7 @@
 
 <!-- tag_target_open:frame:energy_generation_generations -->
 :::tip 에너지 생산 시스템 변천사
-화력 발전 -> [바이오(에틸렌) 발전](../systems/mk_ethylene_generator.md) -> [핵분열 원자로](../systems/mk_fission_reactor.md) -> 핵융합 원자로
+화력 발전 -> [바이오(에틸렌) 발전](../systems/mk_ethylene_generator.md) -> [핵분열 원자로](../systems/mk_fission_reactor.md) -> [핵융합 원자로](../systems/mk_fusion_reactor.md)
 :::
 <!-- tag_close -->
 
@@ -30,6 +30,30 @@
 ![asdf](../../asset/systems/mk_fission_reactor/sub2.jpg)
 
 ![asdf](../../asset/systems/mk_fission_reactor/energy_stae.jpg)
+
+### Fissile Fule 제작 공정  
+
+issile Fuel 제작 공정. 우라늄과 불소(Fluorite)가 지속적으로 필요하다.
+에너지 발전에는 더이상 필요없으나 핵폐기물 가공품이 필요하기에 재료 확보에 신경써야 한다.
+우라늄은 네더의 레이저 드릴로 확보할 수 있으니 네더 석영도 얻을 겸 겸사겸사 지을 예정
+이것 역시 미리 분리해둔 황산 제조라인의 도움을 받았다.
+
+![asdf](../../asset/systems/mk_fission_reactor/fissile_fuel.jpg)
+
+### 핵폐기물 가공 공정
+
+중성자 활성기 대신 동위원소 원심분리기를 사용하면 똑같은 공정으로 폴로늄 대신 플루토늄을 얻을 수 있으나 폴로늄이 훨씬 많이 필요하기에 우선순위에서는 밀린 상태이다.
+
+![asdf](../../asset/systems/mk_fission_reactor/fissile_waste.jpg)
+
+### 2023-05-07 효율 개선
+
+황산 제조공정에 불필요한 병목 및 비효율이 관측되어서 조약돌 생성량을 2배로, 공장들의 성능을 1티어에서 3티어로 2.33배 업그레이드했다. 조약돌 생성량이 살짝 못 따라가고는 있으나, 그 이후 공정에서 용납할만한 가벼운 병목이 발생해 생산량의 밸런스가 조절되는 중.
+무작정 황산 생산량만 늘리는 게 능사는 아닌 게, 중간 부산물 또한 다른 곳에 사용되고 있으므로 밸런스가 중요하다
+
+![sasdf](../../asset/systems/mk_fission_reactor/energy_stae.jpg)
+
+
 
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->

@@ -12,7 +12,7 @@
 ### 에너지 생산 시스템 변천사
 <!-- tag_source_open:copy:energy_generation_generations -->
 :::tip 에너지 생산 시스템 변천사
-화력 발전 -> [바이오(에틸렌) 발전](../systems/mk_ethylene_generator.md) -> [핵분열 원자로](../systems/mk_fission_reactor.md) -> 핵융합 원자로
+화력 발전 -> [바이오(에틸렌) 발전](../systems/mk_ethylene_generator.md) -> [핵분열 원자로](../systems/mk_fission_reactor.md) -> [핵융합 원자로](../systems/mk_fusion_reactor.md)
 :::
 <!-- tag_close -->
 

@@ -19,6 +19,13 @@ Enigmatica-8 모드팩을 기반으로 한 서버입니다.
 - 요금 : 80,000/Month
 - 운영체제 : Ubuntu 22.04
 
+### 실시간 서버 관찰
+
+Dynmap 모드를 사용하여, 오버월드의 맵 상태를 웹에 동기화 하여 보여줍니다.
+
+주소는 다음과 같습니다.  
+[링크](http://14.47.253.169:8123)
+
 
 서버 관련 구글 드라이브 폴더가 있습니다  
 [주소](https://drive.google.com/drive/folders/1-_dD33YMMIZKC2793sm9-OWfFG5rsxvg?usp=share_link)

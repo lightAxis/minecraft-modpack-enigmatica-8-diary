@@ -69,10 +69,13 @@
 |[메카니즘 자동 병렬 인리치멘트 체임버](../systems/mk_auto_enrichment_chamber.md)|자동화 라인 설계 및 제작|
 |[메카니즘 자동 병렬 크러셔](../systems/mk_auto_crushers.md)|시스템 설계 및 제작|
 |[메카니즘 자동 컴프레싱 머신](../systems/mk_auto_compressing.md)|시스템 설계 및 제작|
+|[순환 철도 - 러쉬 스택](../buildings/ocr_lush_stack.md)|역사 제작, 레일 배치|
+|[순환 철도 - 스파크 타이드](../buildings/ocr_spark_tide.md)|레일 배치|
 |[써멀 익스팬션 자동 마그마 크루시블](../systems/te_auto_magma_crucible.md)|시스템 설계 및 제작|
 |[써멀 익스팬션 자동 스톤 익스트루더](../systems/te_stone_extruder.md)|시스템 설계 및 제작|
 |[써멀 익스팬션 자동 인덕션 스멜터](../systems/te_auto_induction_smelter.md)|시스템 설계 및 제작|
 |[써멀 익스팬션 자동 플루이드 인캡슐레이터 - 물](../systems/te_auto_fluid_encapsulator_water.md)|시스템 설계 및 제작|
+|[오버월드 순환 철도](../buildings/overworld_circular_railway.md)|역 데코, 경로 계획|
 |[오컬티즘 매직 스토리지](../systems/occultism_magic_storage.md)|시스템 총괄 / 개발 / 스토리지 엑세서 배포 / 유지보수|
 |[자동 몹 농장](../systems/auto_mob_farm.md)|시스템 설계 및 제작|
 |[컴팩트 머신 메인](../systems/cm_compactmachine_main.md)|설계 및 제작|

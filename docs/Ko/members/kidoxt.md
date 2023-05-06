@@ -45,6 +45,7 @@
 |[Nature Aura 제단](../systems/na_altar.md)|최초 제작 설계|
 |[네더 금 농장](../systems/nether_gold_farm.md)|농장 구조 설계 및 제작, 재고 관리|
 |[몹 스포터 농장](../systems/mobspawner_farm.md)|가스트 몹 스포너로 제작|
+|[이머시브 엔지니어링 - 전시관](../systems/ie_main.md)|박물관 제작|
 |[이머시브 엔지니어링 원예기](../systems/ie_garden_clothe.md)|기계 배치 설계 및 제작|
 |[주민팜 및 인챈트 주민 모음](../systems/viliager_farm.md)|농장 구조 설계 및 제작 / 애드온 모드 도입 / 주변 공간 데코|
 |[철도 생성기](../systems/rail_generator.md)|생산라인 및 기계 배치, 설계, 제작|

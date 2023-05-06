@@ -33,10 +33,13 @@
 |[바람이 머무는 식당](../buildings/windy_restaurant.md)|건축|
 |[보타니아 염료 농장](../systems/botania_dye_farm.md)|설계 및 제작|
 |[붉은 시계탑](../buildings/red_clocktower.md)|건축|
+|[순환 철도 - 길드](../buildings/ocr_the_guild.md)|철도 배치, 역사 제작, 역사 데코|
+|[순환 철도 - 스파크 타이드](../buildings/ocr_spark_tide.md)|역사 건축|
 |[식물의 방](../buildings/room_of_plant.md)|건축|
 |[연구소 - 메인](../buildings/lab.md)|건축|
 |[연구소 - 메카](../buildings/lab_meka_lab.md)|건축|
 |[연구소 - 천연 연못](../buildings/lab_pond.md)|건축|
+|[오버월드 순환 철도](../buildings/overworld_circular_railway.md)|열차 제작, 레일 제작, 레일 데코, 경로 계획|
 |[인벤토리의 제단](../buildings/inventory_altar.md)|건축|
 |[자동 몹 농장](../systems/auto_mob_farm.md)|시스템 설계 보조 및 제작|
 |[지옥문](../buildings/door_of_hell.md)|건축|

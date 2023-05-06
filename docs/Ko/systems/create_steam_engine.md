@@ -13,10 +13,15 @@ Ender tank의 버그로 꺼지고 물 공급이 막혀서 다시 꺼지는 악�
 
 ![물레바퀴](../../asset/systems/create_steam_engine/water_wheel.jpg)
 
+
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 길드 지하 2층
+<!-- tag_close -->
+
+
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 기계 배치 설계 및 제작
-- [happyjourney](../members/happyjourney.md)  
-케이스 주변 공간 데코
 <!-- tag_close-->

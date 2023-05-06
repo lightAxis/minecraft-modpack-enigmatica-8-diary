@@ -19,7 +19,10 @@
 
 현재도 역사를 기념하기 위해 메인길드의 바로 옆 마당에 자리잡고 있다.
 
-
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 길드 주변
+<!-- tag_close -->
 
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->

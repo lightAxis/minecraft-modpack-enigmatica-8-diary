@@ -23,12 +23,11 @@ Flux Network를 사용하여 전력이 이동하며, NPH_Gen 라인으로부터 
 
 ![asdf](../../asset/systems/mk_induction_matrix/FluxtNewtork.jpg)
 
-### 장소
 
-현재 컴팩트 머신 차원을 할당하여 동작하고 있으며,  
-텔레포터 허브를 통해 이동할 수 있다.
-
-![asdf](../../asset/systems/mk_induction_matrix/gate.jpg)
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 컴팩트 머신 차원
+<!-- tag_close -->
 
 
 ### 참여자

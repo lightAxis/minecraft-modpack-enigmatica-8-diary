@@ -26,12 +26,15 @@ Xnet을 통해 다음과 같이 라우팅된다.
 이에 Extra Storage 애드온을 깔아 상위 티어의 Crafter를 사용함으로써 이 아이템 처리 병목이 해결될 수 있다.
 :::
 
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- [연구소 - 메카](../buildings/lab_meka_lab.md)
+<!-- tag_close -->
+
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 자동화 라인 설계 및 제작
 - [BANJUHARA](../members/BANJUHARA.md)  
 초기 자동화 라인 개발 참여
-- [happyjourney](../members/happyjourney.md)  
-주변 공간 데코
 <!-- tag_close-->

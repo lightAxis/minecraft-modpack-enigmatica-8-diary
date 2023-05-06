@@ -17,6 +17,12 @@ Blood Altar에 몹을 공급하기 위한 몬스터 팜
 ![몬스터팜1](../../asset/systems/bl_blood_alter/monster_farm1.jpg)  
 ![몬스터팜2](../../asset/systems/bl_blood_alter/monster_farm2.jpg)
 
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 메인 길드 주변
+<!-- tag_close -->
+
+
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  

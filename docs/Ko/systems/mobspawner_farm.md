@@ -4,6 +4,11 @@
 
 ![asdf](../../asset/systems/mobspawner_farm/main.jpg)
 
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 컴팩트 머신 차원
+<!-- tag_close -->
+
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  

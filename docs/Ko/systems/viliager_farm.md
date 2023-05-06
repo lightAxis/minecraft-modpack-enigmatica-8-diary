@@ -13,6 +13,11 @@
 
 ![asdf](../../asset/systems/viliager_farm/main3.jpg)
 
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 길드 주변
+<!-- tag_close -->
+
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  

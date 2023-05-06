@@ -8,10 +8,13 @@
 
 ![asdf](../../asset/systems/rail_generator/sub1.jpg)
 
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- [Create 플랫폼](../buildings/create_platform.md)
+<!-- tag_close -->
+
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 생산라인 및 기계 배치, 설계, 제작
-- [happyjourney](../members/happyjourney.md)  
-주변 공간 데코
 <!-- tag_close-->

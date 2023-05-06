@@ -10,10 +10,13 @@
 :::
 <!-- tag_close -->
 
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- [연구소 - 메카](../buildings/lab_meka_lab.md)
+<!-- tag_close -->
+
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  
 파워 플랜트 설계 및 제작
-- [happyjourney](../members/happyjourney.md)  
-주변 공간 데코
 <!-- tag_close-->

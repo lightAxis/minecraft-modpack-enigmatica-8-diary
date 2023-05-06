@@ -15,6 +15,11 @@
 가공 다이어그램은 다음과 같다:
 ![다이어그램](../../asset/systems/mk_ore_processing_plant/diagram.jpg)
 
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 컴팩트 머신 차원
+<!-- tag_close -->
+
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  

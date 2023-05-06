@@ -26,12 +26,11 @@ Requetify는 물리적으로 구현해야 했던 Detector를 통한 신호를 �
 
 이를 통해 재고 컨트롤의 중앙화가 가능해졌다.
 
-### 장소
-
-현재 컴팩트 머신 방을 할당하여 보관중이며,  
-텔레포터 허브를 통해 이동 가능하다.
-
-![adsf](../../asset/systems/rs_stock_control/gate.jpg)
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 컴팩트 머신 차원  
+텔레포트 허브를 통해 이동할 수 있다.
+<!-- tag_close -->
 
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->

@@ -17,13 +17,13 @@ RS 시스템의 잡다한 아이템들이 전부 저장되므로, 수량이 적�
 흙, 돌 등의 개수만 많고 실속이 떨어지는 자원들은 이 디스크 드라이브에 저장하기에는 대개 비효율 적인데, 이는 external storage를 사용하여 해결할 수 있다.
 현재 우리 길드에서는 이를 위한 별도의 [BlackHole룸](rs_black_hole.md)을 설계하여 적용하였다.
 :::
+ 
 
-### 장소
-
-
-현재 안전을 위해 별도의 컴팩트 머신 방을 할당하여 보관하고 있다.  
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 컴팩트 머신 차원  
 텔레포트 허브를 통해 이동할 수 있다.  
-![adf](../../asset/systems/rs_disk_drives/gate.jpg)
+<!-- tag_close -->
 
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->

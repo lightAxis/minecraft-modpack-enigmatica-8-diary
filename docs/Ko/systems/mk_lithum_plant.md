@@ -4,11 +4,13 @@
 ![메인](../../asset/systems/mk_lithum_plant/main.jpg)
 
 
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 길드 지하 2층
+<!-- tag_close -->
 
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  
 생산시설 설계 및 제작
-- [happyjourney](../members/happyjourney.md)  
-주변 공간 데코
 <!-- tag_close-->

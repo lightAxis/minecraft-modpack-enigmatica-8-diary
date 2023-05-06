@@ -23,11 +23,11 @@ RS는 Crafter Manager라는 블럭을 통해, 네트워크에 연결된 모든 C
 
 ![asdf](../../asset/systems/rs_crafters/extra_storage_upgrade.jpg)
 
-### 장소
-
-현재 컴팩트 머신 방 안에 있으며, 텔레포터 허브를 통해 접근 가능하다
-
-![adf](../../asset/systems/rs_crafters/gate.jpg)
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 컴팩트 머신 차원  
+텔레포터 허브를 통해 이동 가능
+<!-- tag_close -->
 
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->

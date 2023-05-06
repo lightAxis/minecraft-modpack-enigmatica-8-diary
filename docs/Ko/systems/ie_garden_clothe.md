@@ -8,10 +8,13 @@
 
 ![서브](../../asset/systems/ie_garden_clothe/sub.jpg)
 
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 길드 주변
+<!-- tag_close -->
+
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 기계 배치 설계 및 제작
-- [happyjourney](../members/happyjourney.md)  
-주변 공간 데코
 <!-- tag_close-->

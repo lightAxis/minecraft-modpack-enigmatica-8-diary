@@ -24,6 +24,11 @@
 전우의 유품으로 중무장하는 좀비피글린
 ![asdf](../../asset/systems/nether_gold_farm/rearmed_piglin.jpg)
 
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 지옥 천장
+<!-- tag_close -->
+
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  

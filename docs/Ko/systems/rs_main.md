@@ -39,10 +39,10 @@ Crafter Manager를 사용하면 네트워크에 연결된 모든 Crafter에 접�
 ![asdf](../../asset/blank_img.jpg)
 
 
-### 주변 데코
-현재 근처에는 기초적인 프로세싱 자동화가 있으며, 지하2층에는 Industrial Foregoing 모드의 자동화가 자리잡고 있다.
-
-위에 지어질 예정인 중세 컨셉 마을 지하에 있는 비밀 연구소 설정으로 데코가 진행되고 있다.
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- [연구소 - 메카](../buildings/lab_meka_lab.md)
+<!-- tag_close -->
 
 # 참여
 <!-- tag_source_open:link_list:member_contribute -->
@@ -50,6 +50,4 @@ Crafter Manager를 사용하면 네트워크에 연결된 모든 Crafter에 접�
 시스템 총괄 및 유지보수
 - [BANJUHARA](../members/BANJUHARA.md)  
 시스템 유지보수 및 기능 추가
-- [happyjourney](../members/happyjourney.md)  
-주변 공간 데코 및 외관 디자인
 <!-- tag_close -->

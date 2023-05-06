@@ -21,11 +21,13 @@
 
 - 추가 예정
 
-## 참여 목록
 
+<!-- 참여 목록 -->
 <!-- tag_target_open:reverse_link_list:member_contribute -->
-|항목|내용|
-|--|--|
+<!-- tag_arg:preset:member_contribute -->
+### 참여 목록
+|문서|기여 내용|
+|---|---|
 |[Blood magic Blood Altar](../systems/bl_blood_alter.md)|시스템 설계 및 제작|
 |[Blood magic Edge of The Hidden Realm](../systems/bl_edge_of_the_hidden_realm.md)|시스템 설계 및 제작|
 |[Blood magic Pathway to The Endless Realm](../systems/bl_pathway_to_the_endless_realm.md)|제단 탐색 및 제단 제작|

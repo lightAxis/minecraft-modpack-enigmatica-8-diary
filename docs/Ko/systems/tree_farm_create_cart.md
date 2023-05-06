@@ -18,6 +18,11 @@
 추후 Create를 통해서 정적으로 나무를 기르거나, Industrial Foregoing의 Planter를 사용하여 자동화 수준을 올려야 한다.
 :::
 
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 길드 주변
+<!-- tag_close -->
+
 ## 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  

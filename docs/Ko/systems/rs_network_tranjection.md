@@ -18,11 +18,11 @@ RS의 메인 컨트롤러 까지 컴팩트 머신 차원으로 옮기면, 나중
 - 모든 무선 네트워크가 여기서만 관리되므로, 2다리 이상 걸쳐서 라우팅되는 네트워크를 최소화시켜 추후 네트워크 규모 파악 및 유지보수가 용이해진다.
 
 
-### 장소
-
-현재 안전을 위해 컴팩트 머신 차원을 따로 할당하여 관리중이다.
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 컴팩트 머신 차원  
 텔레포트 허브를 통해 이동할 수 있다.
-![asdaf](../../asset/systems/rs_network_tranjection/gate.jpg)
+<!-- tag_close -->
 
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->

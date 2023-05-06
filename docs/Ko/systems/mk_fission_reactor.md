@@ -31,6 +31,11 @@
 
 ![asdf](../../asset/systems/mk_fission_reactor/energy_stae.jpg)
 
+### 위치
+<!-- tag_source_open:link_list:building_spot -->
+- 마이닝 디멘션
+<!-- tag_close -->
+
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  

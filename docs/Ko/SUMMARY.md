@@ -20,7 +20,7 @@
   * [인벤토리의 제단](buildings/inventory_altar.md)
   * [연구소 - 메카](buildings/lab_meka_lab.md)
   * [연구소 - 천연 연못](buildings/lab_pond.md)
-  * [연구소 (메인)](buildings/lab.md)
+  * [연구소 - 메인](buildings/lab.md)
   * [천문대](buildings/observatory.md)
   * [태초의 건축물](buildings/primitive_building.md)
   * [붉은 시계탑](buildings/red_clocktower.md)

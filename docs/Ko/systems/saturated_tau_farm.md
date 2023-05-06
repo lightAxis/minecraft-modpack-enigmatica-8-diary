@@ -10,7 +10,7 @@ blood magic 용으로 만든 saturated tau 팜
 ![asdf](../../asset/systems/saturated_tau_farm/before.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 자동화 설계 및 제작
 <!-- tag_close-->

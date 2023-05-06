@@ -7,7 +7,7 @@
 주기적으로 가지를 치던지, 싹을 잘라버리던지 해야된다.
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [happyjourney](../members/happyjourney.md)  
 가지 치기 및 관리
 <!-- tag_close-->

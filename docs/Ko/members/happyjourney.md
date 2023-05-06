@@ -22,7 +22,7 @@
 
 ## 참여 목록
 
-<!-- tag_target_open:contribution_list:member_contribute -->
+<!-- tag_target_open:reverse_link_list:member_contribute -->
 |항목|내용|
 |--|--|
 |[Create 강판 생산 라인](../systems/create_plate_line.md)|주변 공간 데코|

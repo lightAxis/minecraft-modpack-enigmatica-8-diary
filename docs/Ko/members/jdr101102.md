@@ -23,5 +23,5 @@
 
 ## 참여 목록
 
-<!-- tag_target_open:contribution_list:member_contribute -->
+<!-- tag_target_open:reverse_link_list:member_contribute -->
 <!-- tag_close -->

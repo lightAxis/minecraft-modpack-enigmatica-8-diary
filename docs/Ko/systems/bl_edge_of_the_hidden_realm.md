@@ -7,7 +7,7 @@
 ![메인](../../asset/systems/bl_edge_of_the_hidden_realm/main.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 시스템 설계 및 제작
 <!-- tag_close-->

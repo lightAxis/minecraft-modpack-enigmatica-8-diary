@@ -13,9 +13,9 @@ import copy
 import operator
 
 
-class ContributionListTagGenerator(TagGenerator):
+class ReverseLinkListTagGenerator(TagGenerator):
     def getGeneratorType(self) -> str:
-        return "contribution_list"
+        return "reverse_link_list"
 
     def Generate_Content(self, tagInfo: tag_desc_t, tagsources: List[tag_source_t], extractors: Extractors_t) -> List[str]:
         new_lines: List[str] = []

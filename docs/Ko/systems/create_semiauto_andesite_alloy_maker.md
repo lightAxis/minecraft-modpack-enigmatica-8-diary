@@ -5,7 +5,7 @@
 ![메인](../../asset/systems/create_semiauto_andesite_alloy_maker/main.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 기계 배치 설계 및 제작
 - [happyjourney](../members/happyjourney.md)  

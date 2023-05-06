@@ -7,7 +7,7 @@
 ![서브1](../../asset/systems/create_iron_flint_steal_factory/sub1.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 생산라인 설계 및 제작, 재고 관리
 - [happyjourney](../members/happyjourney.md)  

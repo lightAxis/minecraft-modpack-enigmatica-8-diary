@@ -1,4 +1,4 @@
 from .TagGenerator import TagGenerator
 
-from .ContributionListTagGenerator import ContributionListTagGenerator
+from .ReverseLinkList import ReverseLinkListTagGenerator
 from .FrameTagGenerator import FrameTagGenerator

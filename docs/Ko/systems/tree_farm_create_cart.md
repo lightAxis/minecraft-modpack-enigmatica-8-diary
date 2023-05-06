@@ -19,7 +19,7 @@
 :::
 
 ## 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 기획 및 시스템 개발
 - [happyjourney](../members/happyjourney.md)  

@@ -12,9 +12,9 @@ from abc import *
 import copy
 
 
-class DescriptionTagParser(TagParser):
+class LinkListTagParser(TagParser):
     def getParserType(self) -> str:
-        return "description"
+        return "link_list"
 
     def ParseDescs_inContent(self, tagInfo: tag_desc_t, extractors: Extractors_t) -> List[tag_source_t]:
         return_tag_sources: List[tag_source_t] = []

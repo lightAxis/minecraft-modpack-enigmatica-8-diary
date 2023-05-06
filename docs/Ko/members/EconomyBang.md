@@ -23,7 +23,7 @@
 
 ## 참여 목록
 
-<!-- tag_target_open:contribution_list:member_contribute -->
+<!-- tag_target_open:reverse_link_list:member_contribute -->
 |항목|내용|
 |--|--|
 |[Nature Aura 제단](../systems/na_altar.md)|인수인계 받음|

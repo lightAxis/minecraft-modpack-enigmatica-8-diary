@@ -9,10 +9,10 @@ if __name__ == "__main__":
     tagLinker.set_NameDescExtractor(DefaultNameDescExtractor())
     tagLinker.set_LinkExtractor(DefaultLinkExtractor())
 
-    tagLinker.add_TagParser(DescriptionTagParser())
+    tagLinker.add_TagParser(LinkListTagParser())
     tagLinker.add_TagParser(CopyTagParser())
 
-    tagLinker.add_TagGenerator(ContributionListTagGenerator())
+    tagLinker.add_TagGenerator(ReverseLinkListTagGenerator())
     tagLinker.add_TagGenerator(FrameTagGenerator())
 
     tagLinker.LinkTargets("docs/Ko")

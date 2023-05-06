@@ -32,7 +32,7 @@
 ![asdf](../../asset/systems/mk_fission_reactor/energy_stae.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  
 핵 분열로 설계 및 제작 / 유지보수
 <!-- tag_close-->

@@ -25,7 +25,7 @@ RS의 메인 컨트롤러 까지 컴팩트 머신 차원으로 옮기면, 나중
 ![asdaf](../../asset/systems/rs_network_tranjection/gate.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 총괄 및 유지보수 / 텔레포터 허브 연결
 <!-- tag_close-->

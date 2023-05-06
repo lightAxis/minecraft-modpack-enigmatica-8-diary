@@ -5,7 +5,7 @@
 ![메인](../../asset/systems/pink_slime_tank/main.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  
 배치하기
 - [happyjourney](../members/happyjourney.md)  

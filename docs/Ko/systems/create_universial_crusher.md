@@ -7,7 +7,7 @@
 ![메인2](../../asset/systems/create_universial_crusher/main2.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 기계 배치 설계 및 제작
 <!-- tag_close-->

@@ -11,7 +11,7 @@ create의 모든 케이스를 생산 할 수 있는 자동화 라인.
 ![메인2](../../asset/systems/create_case_line/main2.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 생산라인 설계 및 제작
 - [happyjourney](../members/happyjourney.md)  

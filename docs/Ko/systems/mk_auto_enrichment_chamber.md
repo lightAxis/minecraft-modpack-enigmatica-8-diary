@@ -19,7 +19,7 @@ XNet의 아이템 파이핑은 아이템 슬롯을 순회하여 동작하므로,
 
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 자동화 라인 설계 및 제작
 - [BANJUHARA](../members/BANJUHARA.md)  

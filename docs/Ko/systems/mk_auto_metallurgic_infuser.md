@@ -36,7 +36,7 @@ RS를 사용하기 때문에 input buffer의 용량이 얼마든지 확장될 �
 :::
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 자동화 라인 설계 및 제작
 - [BANJUHARA](../members/BANJUHARA.md)  

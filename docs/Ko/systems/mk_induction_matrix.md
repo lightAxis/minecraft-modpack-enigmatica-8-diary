@@ -32,7 +32,7 @@ Flux Network를 사용하여 전력이 이동하며, NPH_Gen 라인으로부터 
 
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  
 유도 매트릭스 규모 산정 / 설계 및 제작 / 유지보수
 - [jasuk500](../members/jasuk500.md)  

@@ -13,7 +13,7 @@
 "???:벽 뚫자 !!!:아니 거기는!!ㅠㅠ" 
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [happyjourney](../members/happyjourney.md)  
 건축
 <!-- tag_close-->

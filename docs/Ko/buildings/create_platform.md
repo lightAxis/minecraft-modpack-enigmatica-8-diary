@@ -7,7 +7,7 @@ Create 시스템을 위한 모듈러 동력 전달 플랫폼.
 ![asdf](../../asset/buildings/create_platform/main.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [happyjourney](../members/happyjourney.md)  
 건축
 <!-- tag_close-->

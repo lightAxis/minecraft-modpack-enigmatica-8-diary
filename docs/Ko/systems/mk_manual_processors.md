@@ -22,7 +22,7 @@
 
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  
 기계 배치 및 파이프라인 설계 / 제작
 <!-- tag_close-->

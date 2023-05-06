@@ -26,7 +26,7 @@ RS 시스템의 잡다한 아이템들이 전부 저장되므로, 수량이 적�
 ![adf](../../asset/systems/rs_disk_drives/gate.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 설계, 제작, 텔레포터 허브 연결
 <!-- tag_close-->

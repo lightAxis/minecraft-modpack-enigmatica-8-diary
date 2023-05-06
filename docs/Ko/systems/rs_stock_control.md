@@ -34,7 +34,7 @@ Requetify는 물리적으로 구현해야 했던 Detector를 통한 신호를 �
 ![adsf](../../asset/systems/rs_stock_control/gate.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 시스템 설계 및 제작 / 텔레포터 허브 연결
 <!-- tag_close-->

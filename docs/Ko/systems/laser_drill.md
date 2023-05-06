@@ -33,7 +33,7 @@ Entagled 블럭을 사용하여 내부에 귀찮은 전선을 치웠다.
 
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 기계 배치 및 제작
 - [BANJUHARA](../members/BANJUHARA.md)  

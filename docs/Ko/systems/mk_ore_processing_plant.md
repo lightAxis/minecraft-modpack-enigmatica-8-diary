@@ -16,7 +16,7 @@
 ![다이어그램](../../asset/systems/mk_ore_processing_plant/diagram.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [BANJUHARA](../members/BANJUHARA.md)  
 파이프라인 설계 및 제작 / 유지보수
 - [jasuk500](../members/jasuk500.md)  

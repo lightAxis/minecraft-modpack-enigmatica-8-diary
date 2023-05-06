@@ -26,7 +26,7 @@ RS 시스템의 잡다한 아이템들이 전부 저장되므로, 수량이 적�
 ![adf](../../asset/systems/rs_disk_drives/gate.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:name2-->
+<!-- tag_source_open:link_list:name2-->
 - [This is test desc 122](../docs/link1.md)  
 desc1
 - [This is test desc 1](../docs/link1-1.md)  
@@ -39,6 +39,6 @@ are you? [linkname5](link5.jpg)?
 <!-- tag_close -->
 
 
-<!-- tag_target_open:contribution_list:name1 -->
+<!-- tag_target_open:reverse_link_list:name1 -->
 dd
 <!-- tag_close -->

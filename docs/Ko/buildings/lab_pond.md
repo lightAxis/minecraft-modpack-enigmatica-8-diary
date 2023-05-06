@@ -8,7 +8,7 @@ lab내부의 인공연못 기게가 대부분을 차지할 예정인 연구소�
 ![asdf](../../asset/buildings/lab_pond/main.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [happyjourney](../members/happyjourney.md)  
 건축
 <!-- tag_close-->

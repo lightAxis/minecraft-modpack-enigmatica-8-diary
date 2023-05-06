@@ -1,4 +1,4 @@
 from .TagParser import *
 
-from .DescriptionTagParser import *
+from .LinkListTagParser import *
 from .CopyTagParser import *

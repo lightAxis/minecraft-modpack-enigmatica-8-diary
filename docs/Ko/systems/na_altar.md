@@ -23,7 +23,7 @@ Alax's Mobs 모드와 충돌이 난 것일 수도 있다.
 
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 최초 제작 설계
 - [EconomyBang](../members/EconomyBang.md)  

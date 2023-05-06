@@ -9,7 +9,7 @@
 만약 잃어버릴 경우를 대비해서 [텔레포터 트렌잭션](teleporter_hub.md)으로 각 방을 이어놓은 상태다.
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 설계 및 제작
 - [happyjourney](../members/happyjourney.md)  

@@ -8,7 +8,7 @@
 ![메인2](../../asset/systems/create_plate_line/main2.jpg)
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [kidoxt](../members/kidoxt.md)  
 기계 배치 설계 및 제작
 - [happyjourney](../members/happyjourney.md)  

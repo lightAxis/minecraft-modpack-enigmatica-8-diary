@@ -7,7 +7,7 @@
 풍차의 전반적인 형상은 그리스식 풍차를 많이 참고했다.
 
 ### 참여자
-<!-- tag_source_open:description:member_contribute -->
+<!-- tag_source_open:link_list:member_contribute -->
 - [happyjourney](../members/happyjourney.md)  
 건축
 <!-- tag_close-->

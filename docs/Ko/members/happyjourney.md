@@ -44,6 +44,7 @@
 |[메카니즘 자동 스멜터 프로세서](../systems/mk_auto_smeltery.md)|주변 공간 데코|
 |[메카니즘 자동 인리치멘트 체임버](../systems/mk_auto_enrichment_chamber.md)|주변 공간 데코|
 |[바람이 머무는 식당](../buildings/windy_restaurant.md)|건축|
+|[보타니아 염료 농장](../systems/botania_dye_farm.md)|설계 및 제작|
 |[붉은 시계탑](../buildings/red_clocktower.md)|건축|
 |[블레이즈 킬링 챔버](../systems/blaze_killing_chamber.md)|주변 공간 데코|
 |[식물의 방](../buildings/room_of_plant.md)|건축|

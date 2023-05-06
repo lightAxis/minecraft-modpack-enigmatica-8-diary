@@ -73,16 +73,14 @@ RS 시스템 외부에서 볼때는 아이템의 개수가 전혀 변하지 않�
 
 ![asdf](../../asset/systems/rs_black_hole/main.jpg)
 
+
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
-- 컴팩트 머신 차원
+- [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  
+텔레포터 허브를 통해 이동할 수 있다.
 <!-- tag_close -->
 
-### 위치
-현재는 컴팩트 머신 방에 따로 분류되어 있으며,
-텔레포터 허브를 통해 접근할 수 있다.
 
-![asdf](../../asset/systems/rs_black_hole/gate.jpg)
 
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->

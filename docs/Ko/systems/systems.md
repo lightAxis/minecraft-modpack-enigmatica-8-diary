@@ -40,7 +40,7 @@ create의 모든 케이스를 생산 할 수 있는 자동화 라인.
 유리블럭으로 둘러싸여 있어서 보수한다고 몇번이나 깨먹었다
 - [ Nature Aura 제단](na_altar.md)  
 Nature's Aura 모드의 기본 제단
-- [ 광물 가공 플랜트](mk_ore_processing_plant.md)  
+- [ 광물 정제 플랜트 - 5배](mk_ore_processing_plant_5x.md)  
 황산과 염화수소는 외부에 지은 황산 제조공정에서 긴빠이해서 사용하는 덕분에 굉장히 간소해짐
 - [ 나무 농장 (크리에이트 카트)](tree_farm_create_cart.md)  
 처음으로 지어진 나무 농장.  
@@ -70,24 +70,42 @@ RS에서 사용하는 자동 조합법을 보관하는 방.
 확장성 좋은 대량 에너지 저장 멀티블럭.
 - [ 메카니즘 자동 메탈러직 인퓨져](mk_auto_metallurgic_infuser.md)  
 RS 시스템에 연결되어 자동으로 병렬처리하는데 사용된다.
-- [ 메카니즘 자동 스멜터 프로세서](mk_auto_smeltery.md)  
-RS 시스템에서 자동 스멜팅에 사용하는 병렬 스멜터리 그룹.
-- [ 메카니즘 자동 인리치멘트 체임버](mk_auto_enrichment_chamber.md)  
-RS에 연결되어 자동으로 병렬 처리하는데 사용된다.
+- [ 메카니즘 자동 병렬 스멜터](mk_auto_smeltery.md)  
+32*9개의 쓰레드로 수천개의 아이템을 1분내에 구울 수 있다.
+- [ 메카니즘 자동 병렬 인리치멘트 체임버](mk_auto_enrichment_chamber.md)  
+32*9개의 쓰레드로 수천개의 아이템을 1분안에 처리한다
+- [ 메카니즘 자동 병렬 크러셔](mk_auto_crushers.md)  
+32*9개의 크러셔로 1000개의 아이템을 8초안에 처리한다.
+- [ 메카니즘 자동 컴프레싱 머신](mk_auto_compressing.md)  
+RS에 연결된 자동 컴프레싱 머신들
 - [ 메카니즘 핵 분열로](mk_fission_reactor.md)  
 메카니즘 모드의 대량 에너지 생산 시설이다.
+- [ 메카니즘 핵 융합로](mk_fusion_reactor.md)  
+에너지 제약으로부터의 해방
 - [ 메카니즘 황산 플랜트](mk_sulfer_plant.md)  
 물과 조약돌을 가공해 황산을 만드는 공정단지임. 전기 공급은 아래쪽으로 빼서 손도 깔끔
 - [ 몹 스포터 농장](mobspawner_farm.md)  
 컴팩트 차원에서 안전하게 몹을 잡을 수 있는 방이다.
+- [ 보타니아 염료 농장](botania_dye_farm.md)  
+모든 종류의 염료를 한 장치에서 양산 가능함
 - [ 블레이즈 킬링 챔버](blaze_killing_chamber.md)  
 블레이즈를 자동으로 생산 후 녹이는 방.
+- [ 써멀 익스팬션 자동 마그마 크루시블](te_auto_magma_crucible.md)  
+RS에 연결된 마그마 크루시블
+- [ 써멀 익스팬션 자동 스톤 익스트루더](te_stone_extruder.md)  
+다양한 종류의 돌을 무한으로 뽑아내는 곳
+- [ 써멀 익스팬션 자동 인덕션 스멜터](te_auto_induction_smelter.md)  
+RS에 연결된 인덕션 스멜터리
+- [ 써멀 익스팬션 자동 플루이드 인캡슐레이터 - 물](te_auto_fluid_encapsulator_water.md)  
+RS에 연결되어 자동으로 돌아가는 플루이드 인캡슐레이터
 - [ 에틸렌 발전소](mk_ethylene_generator.md)  
 농작물을 연료로 가공해 만든 에틸렌을 가스 버닝 제너레이터가 태우는 메인 발전 시설로, 틱당 약 15만FE를 생산함
 - [ 오컬티즘 매직 스토리지](occultism_magic_storage.md)  
 아이템 네트워크를 사용한 대량 아이템 스토리지.
 - [ 이머시브 엔지니어링 원예기](ie_garden_clothe.md)  
 그저 요리용으로 잠시 만들고 신경 안쓰고 있었는데 아무도 있는줄 모르는듯....
+- [ 자동 몹 농장](auto_mob_farm.md)  
+RS 내부의 몹 드랍템 수량을 체크하며 자동으로 스폰하고 잡아주는 무인 농장.
 - [ 주민팜 및 인챈트 주민 모음](viliager_farm.md)  
 누군가는 이걸 인챈트작이라고 하지 않는다고...
 - [ 철도 생성기](rail_generator.md)  

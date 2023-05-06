@@ -26,7 +26,8 @@ Flux Network를 사용하여 전력이 이동하며, NPH_Gen 라인으로부터 
 
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
-- 컴팩트 머신 차원
+- [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  
+텔레포터 허브로 이동할 수 있다.
 <!-- tag_close -->
 
 

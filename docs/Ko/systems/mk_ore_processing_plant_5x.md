@@ -1,4 +1,4 @@
-# 광물 가공 플랜트
+# 광물 정제 플랜트 - 5배
 
 황산과 염화수소는 외부에 지은 황산 제조공정에서 긴빠이해서 사용하는 덕분에 굉장히 간소해짐
 
@@ -7,7 +7,7 @@
 
 <!-- tag_target_open:frame:ore_refinement_generations -->
 :::tip 광물 정제 시스템 변천사
-화로 -> [수동 2배 공정](mk_manual_processors.md)-> [자동 5배 공정](mk_ore_processing_plant.md) -> 대형 병렬 자동 4배 공정
+화로 -> [수동 2배 공정](mk_manual_processors.md)-> [자동 5배 공정](mk_ore_processing_plant_5x.md) -> 대형 병렬 자동 4배 공정
 :::
 <!-- tag_close -->
 
@@ -17,7 +17,8 @@
 
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
-- 컴팩트 머신 차원
+- [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  
+텔레포터 허브를 통해 이동할 수 있다.
 <!-- tag_close -->
 
 ### 참여자

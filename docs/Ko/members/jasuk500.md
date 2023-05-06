@@ -53,7 +53,7 @@
 ### 참여 목록
 |문서|기여 내용|
 |---|---|
-|[광물 가공 플랜트](../systems/mk_ore_processing_plant.md)|텔레포터 배치|
+|[광물 정제 플랜트 - 5배](../systems/mk_ore_processing_plant_5x.md)|텔레포터 배치|
 |[나무 농장 (크리에이트 카트)](../systems/tree_farm_create_cart.md)|기획 및 시스템 개발|
 |[네더 금 농장](../systems/nether_gold_farm.md)|텔레포터 배치 / RS 네트워크 연결 관리|
 |[레이저 드릴](../systems/laser_drill.md)|기계 배치 및 제작|

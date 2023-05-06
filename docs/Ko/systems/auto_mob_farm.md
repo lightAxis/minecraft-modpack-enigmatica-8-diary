@@ -26,7 +26,8 @@ RS 내부의 몹 드랍템 수량을 체크하며 자동으로 스폰하고 잡�
 
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
-- 컴팩트 머신 차원
+- [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  
+텔레포터 허브를 통해 이동할 수 있다.
 <!-- tag_close -->
 
 

@@ -32,12 +32,26 @@ RS가 제공하는 기능은 다음과 같다.
 - 무선으로 네트워크에 접근하거나, 무선으로 확장 가능한 네트워크 제공
 
 다음과 같이 무선으로 엑세스가 가능한 터미널을 제공하며, 조합 테이블 및 조합 요청도 보낼 수 있다. 또한, 오컬티즘의 매직 스토리지와 다르게 액체도 다룰 수 있다.
-![asdf](../../asset/blank_img.jpg)
+![asdf](../../asset/systems/rs_main/fluid.jpg)
 
 자동 조합은 다음과 같이 패턴 터미널에서 인코딩되며, 인코딩된 패턴을 Crafter안에 넣어서 등록하면 이제 RS 시스템에서 해당 조합법을 사용할 수 있게 된다.  
-Crafter Manager를 사용하면 네트워크에 연결된 모든 Crafter에 접근할 수 있으며, 이를 통해 직접 Crafter에 접근하지 않아도 네트워크에 패턴 등록이 가능해진다.
-![asdf](../../asset/blank_img.jpg)
 
+![asdf](../../asset/systems/rs_main/auto_pattern.jpg)
+
+Crafter Manager를 사용하면 네트워크에 연결된 모든 Crafter에 접근할 수 있으며, 이를 통해 직접 Crafter에 접근하지 않아도 네트워크에 패턴 등록이 가능해진다.
+![asdf](../../asset/systems/rs_main/crafter_manager.jpg)
+
+Crafting Monitor는 시킨 자동 조합이 얼마나 진행되고 있는지를 확인할 수 있다.
+
+![asdf](../../asset/systems/rs_main/crafting_monitor.jpg)
+
+### 2023-05-07 대규모 업데이트
+
+이전
+![asdf](../../asset/systems/rs_main/old.jpg)
+
+이후
+![asdf](../../asset/systems/rs_main/main.jpg)
 
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->

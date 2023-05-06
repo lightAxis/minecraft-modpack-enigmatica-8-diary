@@ -23,7 +23,7 @@ Create 시스템을 위한 모듈러 동력 전달 플랫폼.
 이 서버 튜토리얼 이후 가장 처음 만든 건축물.
 - [ 식물의 방](room_of_plant.md)  
 보타니아를 다루는 방.
-- [ 연구소 (메인)](lab.md)  
+- [ 연구소 - 메인](lab.md)  
 언덕 지하에 있는 연구소 단지.
 - [ 연구소 - 메카](lab_meka_lab.md)  
 메카니즘 및 리파인드 스토리지를 담당하는 연구실
@@ -35,6 +35,8 @@ Create 시스템을 위한 모듈러 동력 전달 플랫폼.
 지옥으로 통하는 메인 게이트
 - [ 천문대](observatory.md)  
 create 회전 베어링을 이용한 접이식 망원경을 볼 수 있는 천문대.
+- [ 컴팩트 머신 차원](compact_machine_dimension.md)  
+한블럭 안의 주머니 차원 & 렉없는 클린 차원
 - [ 태초의 건축물](primitive_building.md)  
 서버에서 만든 최초의 건축물.
 <!-- systems_list_dest_close -->

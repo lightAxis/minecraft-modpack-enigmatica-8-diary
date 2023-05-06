@@ -4,7 +4,8 @@
 
 ![asdf](../../asset/systems/teleporter_hub/main.jpg)
 
-컴팩트 머신 차원 안에 위치한 컴팩트 머신 간의 텔레포터를 전부 연결하는 허브이다.
+컴팩트 머신 차원 안에 위치한 컴팩트 머신 간의 텔레포터를 전부 연결하는 허브이다.  
+모든 컴팩트 머신은 반드시 텔레포터 허브 게이트도 같이 지어야 하며, 반드시 텔레포터 트랜젝션에 게이트가 있다.
 
 내부에 서로 다른 컴팩트 머신 방을 왔다갔다 하기 위한 텔레포터들이 있으며,
 중앙은 compact mahine tranjection으로, 오버월드에서 이곳으로 넘어오는 메인 게이트 같은 텔레포터이다.  
@@ -14,9 +15,20 @@
 
 이 시설이 없으면, 컴팩트 머신 차원 안의 다른 시설들을 사용할 때, 매번 밖으로 나간 다음 다시 들어가야 한다. 
 
+텔레포터 트랜잭션으로 이용할 수 있는 모든 방은 [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)에서 확인할 수 있다.
+
+### 2023-05-07 새로운 방 많이 추가
+
+이전
+![asdf](../../asset/systems/teleporter_hub/old.jpg)
+
+이후
+![asdf](../../asset/systems/teleporter_hub/main.jpg)
+
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
-- 컴팩트 머신 차원  
+- [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  
+컴팩트 머신 간의 이동을 돕는다
 <!-- tag_close -->
 
 ## 참여자

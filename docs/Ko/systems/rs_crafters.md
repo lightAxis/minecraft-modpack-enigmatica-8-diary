@@ -25,7 +25,7 @@ RS는 Crafter Manager라는 블럭을 통해, 네트워크에 연결된 모든 C
 
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
-- 컴팩트 머신 차원  
+- [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  
 텔레포터 허브를 통해 이동 가능
 <!-- tag_close -->
 

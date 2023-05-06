@@ -21,7 +21,8 @@ Entalgled 블럭을 사용하여 깔끔하게 정리해보려 했지만, 인탱�
 
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
-- 컴팩트 머신 차원
+- [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  
+텔레포트 허브를 통해 이동할 수 있다.
 <!-- tag_close -->
 
 

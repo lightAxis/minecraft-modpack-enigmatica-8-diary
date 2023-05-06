@@ -20,7 +20,7 @@ RS의 메인 컨트롤러 까지 컴팩트 머신 차원으로 옮기면, 나중
 
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
-- 컴팩트 머신 차원  
+- [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  
 텔레포트 허브를 통해 이동할 수 있다.
 <!-- tag_close -->
 

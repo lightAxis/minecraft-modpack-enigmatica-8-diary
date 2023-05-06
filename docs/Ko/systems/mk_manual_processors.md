@@ -11,7 +11,7 @@
 
 <!-- tag_target_open:frame:ore_refinement_generations -->
 :::tip 광물 정제 시스템 변천사
-화로 -> [수동 2배 공정](mk_manual_processors.md)-> [자동 5배 공정](mk_ore_processing_plant.md) -> 대형 병렬 자동 4배 공정
+화로 -> [수동 2배 공정](mk_manual_processors.md)-> [자동 5배 공정](mk_ore_processing_plant_5x.md) -> 대형 병렬 자동 4배 공정
 :::
 <!-- tag_close -->
 

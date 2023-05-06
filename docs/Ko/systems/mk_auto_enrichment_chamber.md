@@ -19,7 +19,8 @@ XNet의 아이템 파이핑은 아이템 슬롯을 순회하여 동작하므로,
 
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
-- 컴팩트 머신 차원
+- [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  
+288스레드 대형 공정이 위치해있다.
 - [연구소 - 메카](../buildings/lab_meka_lab.md)  
 지금은 이곳에서 규모가 커짐에 따라 컴팩트 머신 차원으로 옮겼다
 <!-- tag_close -->

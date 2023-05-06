@@ -26,7 +26,7 @@
 ### 참여 목록
 |문서|기여 내용|
 |---|---|
-|[광물 가공 플랜트](../systems/mk_ore_processing_plant.md)|파이프라인 설계 및 제작 / 유지보수|
+|[광물 정제 플랜트 - 5배](../systems/mk_ore_processing_plant_5x.md)|파이프라인 설계 및 제작 / 유지보수|
 |[러브하우수 ](../systems/love_house.md)|최다우수이용고객|
 |[레이저 드릴](../systems/laser_drill.md)|최초 시작|
 |[리튬 플랜트](../systems/mk_lithum_plant.md)|생산시설 설계 및 제작|

@@ -31,7 +31,8 @@ Xnet을 통해 다음과 같이 라우팅된다.
 
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
-- 컴팩트 머신 차원
+- [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  
+288스레드의 대형 공정이 위치해있다.
 - [연구소 - 메카](../buildings/lab_meka_lab.md)  
 지금은 규모가 커져 컴팩트 머신 차원으로 옮겨졌다.
 <!-- tag_close -->

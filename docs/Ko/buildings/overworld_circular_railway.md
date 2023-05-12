@@ -37,6 +37,8 @@
 <!-- tag_source_open:link_list:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
 역 데코, 경로 계획
+- [BANJUHARA](../members/BANJUHARA.md)  
+철도 배치, 경로 계획
 - [happyjourney](../members/happyjourney.md)  
 열차 제작, 레일 제작, 레일 데코, 경로 계획
 <!-- tag_close-->

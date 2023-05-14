@@ -75,10 +75,62 @@ Mega Torch를 사용하여 집을 포함한 주변의 모든 몬스터를 없앰
 ### 2023-05-07 Dynmap 도입
 
 서버의 맵 상태를 실시간으로 웹상에 보여주는 Dynmap 모드를 도입했다.  
-이제 특정 주소에서 서버에 있는 모든 사람과 채팅, 맵의 변화를 실시간으로 확인할 수 있다.
+이제 특정 주소에서 서버에 있는 모든 사람과 채팅, 맵의 변화를 실시간으로 확인할 수 있다.  
+[주소](http://14.47.253.169:8123)
+
+:::details 당시 사진
+![asdf](../../asset/history/2023_05_07_dynmap_implement/init_discord.jpg)
+![asdf](../../asset/history/2023_05_07_dynmap_implement/chat.jpg)
+![asdf](../../asset/history/2023_05_07_dynmap_implement/initial_quter_view.jpg)
+![asdf](../../asset/history/2023_05_07_dynmap_implement/initial_quater_view2.jpg)
+![asdf](../../asset/history/2023_05_07_dynmap_implement/initial_quater_view3.jpg)
+:::
 
 ### 2023-05-11 2차 청크 프리로딩
 
 오버월드 순환 철도의 다음 역까지의 지형을 탐사하는데 있어서 청크 생성 속도가 지나치게 느려 조사에 어려움이 있었다.  
 이에 집 좌표 주변으로 312청크(4998블럭) 반경을 청크 프리로딩을 통해 맵을 생성하도록 조치했다.  
-월드맵의 용량이 2.2기가->6기가로 늘었다.
+월드맵의 용량이 2.2기가->6기가로 늘었다. 
+프리청크 로딩에 6시간, 다인맵 렌더링에는 총 15시간이 걸렸다.
+
+:::details 넓어진 월드맵
+![asdf](../../asset/history/2023_05_11_2nd_chunk_preloading/dynmap_init_flat.jpg)
+![asdf](../../asset/history/2023_05_11_2nd_chunk_preloading/dynmap_init_surface.jpg)
+:::
+
+### 2023-05-15 불가능한 조합법 : 모노레일 사태
+
+monorail track의 조합법에 요구되는 iron sheet가, Almost Unified(비슷한 종류의 자원을 하나로 묶어 레시피를 자동으로 수정해주는 모드팩용 모드)  때문에 아예 아이템 자체가 삭제되어 있어, 조합이 불가능한 문제가 발생.
+JEI를 비롯한 어디에서도 iron sheet가 없어서 아예 없는 아이템 취급이었다.
+
+이에 대한 조치로, 모드팩의 서버쪽 소스 코드를 수정하여 iron plate -> iron sheet로 바꾸는 shapeless 조합법을 서버에 추가하였다.
+JEI에서 iron sheet가 검색되진 않지만, 조합은 가능하며, monorail track 역시 만들 수 있게 되었다.
+
+ :::details 당시 사진들
+ 
+수정된 서버쪽 js 코드
+
+ ![asdf](../../asset/history/2023_05_15_impossible_recipe/revised_code.jpg)
+
+수정된 코드
+ ```javascript
+// server_files\enig8\kubejs\server_scripts\base\recipes\errata\erratas.js
+onEvent('recipes', (event) => {
+    const id_prefex = 'enigmatica:base/errata/erratas/';
+
+    const recipes = [
+        { output: 'create:iron_sheet', inputs: ['ftbic:iron_plate'], id: `${id_prefex}iron_sheet_bugfix` }
+    ];
+    recipes.forEach((recipe) => {
+        event.shapeless(recipe.output, recipe.inputs).id(recipe.id);
+    });
+});
+ ```
+
+ 추가된 조합법 사진
+
+ ![asdf](../../asset/history/2023_05_15_impossible_recipe/recipe.jpg)
+
+
+
+ :::

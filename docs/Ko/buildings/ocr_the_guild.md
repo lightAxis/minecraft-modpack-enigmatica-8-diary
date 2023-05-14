@@ -5,7 +5,7 @@
 ![asdf](../../asset/blank_img.jpg)
 
 <!-- tag_target_open:frame:overworld_circular_rail -->
-:::tip 오버월드 순환 철도 역사
+:::tip 오버월드 순환 철도 노선도
 [오버월드 순환 철도](overworld_circular_railway.md)의 모든 역 목록
 
 [길드](ocr_the_guild.md) -> [러쉬 스택](ocr_lush_stack.md) -> [스파크 타이드](ocr_spark_tide.md) -> ...

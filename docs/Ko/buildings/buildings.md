@@ -51,4 +51,6 @@ create 회전 베어링을 이용한 접이식 망원경을 볼 수 있는 천�
 한블럭 안의 주머니 차원 & 렉없는 클린 차원
 - [ 태초의 건축물](primitive_building.md)  
 서버에서 만든 최초의 건축물.
+- [ 하모닉 브릿지](ocr_harmonic_bridge.md)  
+러쉬 스택과 스파크 타이드 역 사이를 잇는 거대한 현수교
 <!-- systems_list_dest_close -->

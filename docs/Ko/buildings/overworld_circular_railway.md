@@ -25,6 +25,10 @@
 <!-- ### 하위 장소 목록 -->
 <!-- tag_target_open:reverse_link_list:child_spot -->
 <!-- tag_arg:preset:spots_inside -->
+### 하위 장소 목록
+|시설|세부 사항|
+|---|---|
+|[하모닉 브릿지](ocr_harmonic_bridge.md)|러쉬 스택과 스파크 타이드 역 사이를 잇는 거대한 현수교|
 <!-- tag_close -->
 
 

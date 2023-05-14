@@ -21,6 +21,17 @@
 
 ![sdf](../../asset/ie_main/../systems/ie_main/no_coil_mineral.jpg)
 
+### 2023-05-09 추가
+
+어셈블러 : 사람이 제작하는 대부분을 제작할 수 있는 제작기계
+아크 퍼니스 : 대용량 용광로 메카니즘 용광로가 더 빠르고 효율이 높아서 쓸 일은 없을 것이다
+스퀴즈 : 짜내는 기계 Plant Oil를 만들지만 쓸 곳은 이머시브 발전기 외에는 쓸 곳이 딱히 없다
+![asdf](../../asset/systems/ie_main/assem_arcfurnace.jpg)
+
+이머시브 엔지니어링용 수차 하지만 크기가 크고 효율도 좋은편은 아니다
+![asdf](../../asset/systems/ie_main/assem_arcfurnace.jpg)
+
+
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - 마이닝 디멘션

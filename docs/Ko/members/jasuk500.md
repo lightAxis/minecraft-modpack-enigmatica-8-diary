@@ -80,6 +80,7 @@
 |[자동 몹 농장](../systems/auto_mob_farm.md)|시스템 설계 및 제작|
 |[컴팩트 머신 메인](../systems/cm_compactmachine_main.md)|설계 및 제작|
 |[텔레포터 트랜잭션](../systems/teleporter_hub.md)|시스템 설계 / 제작 / 유지보수|
+|[하모닉 브릿지](../buildings/ocr_harmonic_bridge.md)|노가다, 철선 설치|
 <!-- tag_close -->
 
 

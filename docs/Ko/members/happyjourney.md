@@ -45,4 +45,5 @@
 |[지옥문](../buildings/door_of_hell.md)|건축|
 |[천문대](../buildings/observatory.md)|건축|
 |[태초의 건축물](../buildings/primitive_building.md)|건축|
+|[하모닉 브릿지](../buildings/ocr_harmonic_bridge.md)|레일 배치, 곡선 설계, 노가다 지시|
 <!-- tag_close -->

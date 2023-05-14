@@ -31,7 +31,7 @@
 
 ![asdf](../../asset/systems/mk_fission_reactor/energy_stae.jpg)
 
-### Fissile Fule 제작 공정  
+## Fissile Fule 제작 공정  
 
 issile Fuel 제작 공정. 우라늄과 불소(Fluorite)가 지속적으로 필요하다.
 에너지 발전에는 더이상 필요없으나 핵폐기물 가공품이 필요하기에 재료 확보에 신경써야 한다.
@@ -40,12 +40,13 @@ issile Fuel 제작 공정. 우라늄과 불소(Fluorite)가 지속적으로 필�
 
 ![asdf](../../asset/systems/mk_fission_reactor/fissile_fuel.jpg)
 
-### 핵폐기물 가공 공정
+## 핵폐기물 가공 공정
 
 중성자 활성기 대신 동위원소 원심분리기를 사용하면 똑같은 공정으로 폴로늄 대신 플루토늄을 얻을 수 있으나 폴로늄이 훨씬 많이 필요하기에 우선순위에서는 밀린 상태이다.
 
 ![asdf](../../asset/systems/mk_fission_reactor/fissile_waste.jpg)
 
+## 업데이트 내역
 ### 2023-05-07 효율 개선
 
 황산 제조공정에 불필요한 병목 및 비효율이 관측되어서 조약돌 생성량을 2배로, 공장들의 성능을 1티어에서 3티어로 2.33배 업그레이드했다. 조약돌 생성량이 살짝 못 따라가고는 있으나, 그 이후 공정에서 용납할만한 가벼운 병목이 발생해 생산량의 밸런스가 조절되는 중.
@@ -54,7 +55,7 @@ issile Fuel 제작 공정. 우라늄과 불소(Fluorite)가 지속적으로 필�
 ![sasdf](../../asset/systems/mk_fission_reactor/energy_stae.jpg)
 
 
-
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - 마이닝 디멘션

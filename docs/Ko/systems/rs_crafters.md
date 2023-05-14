@@ -15,6 +15,7 @@ RS는 Crafter Manager라는 블럭을 통해, 네트워크에 연결된 모든 C
 또한, 서로 다른 컴팩트 머신 이름 그룹을 옆으로 나란히 세워서 구분하고 있다. 
 만약 새로운 그룹을 추가한다면 옆에 새로 만들고 위로 쌓아 올리면 된다.
 
+## 업데이트 내역
 ### 2023-05-01 Extra Storage 리뉴얼
 
 엑스트라 스토리지 애드온이 깔림에 따라, 기존에 속도가 빠르고 용량이 컸던 crafter 그룹에 한해서 상위 티어의 크래프터로 업그레이드 했다.
@@ -23,6 +24,7 @@ RS는 Crafter Manager라는 블럭을 통해, 네트워크에 연결된 모든 C
 
 ![asdf](../../asset/systems/rs_crafters/extra_storage_upgrade.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  

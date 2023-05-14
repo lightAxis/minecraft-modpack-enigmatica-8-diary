@@ -11,11 +11,8 @@
     "doc": "vuepress dev docs",
     "build": "vuepress build docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lightAxis/minecraft-modpack-enigmatica-8-diary.git"
-  },
-  "author": "",
+  "repository": "git+https://github.com/lightAxis/minecraft-modpack-enigmatica-8-diary.git",
+  "author": "Jiseok Lee <jisuk500@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lightAxis/minecraft-modpack-enigmatica-8-diary/issues"
@@ -23,8 +20,12 @@
   "homepage": "https://github.com/lightAxis/minecraft-modpack-enigmatica-8-diary#readme",
   "keywords": [],
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^2.0.0-beta.62",
-    "vuepress": "^1.9.9"
+    "@vuepress/plugin-back-to-top": "^1.9.9",
+    "@vuepress/plugin-last-updated": "^1.9.9",
+    "@vuepress/plugin-medium-zoom": "^1.9.9",
+    "@vuepress/plugin-nprogress": "^1.9.9",
+    "vuepress": "^1.9.9",
+    "vuepress-plugin-code-copy": "^1.0.6"
   },
   "dependencies": {
     "abbrev": "^1.1.1",
@@ -717,11 +718,11 @@
     "stream-http": "^2.8.3",
     "stream-shift": "^1.0.1",
     "strict-uri-encode": "^1.1.0",
-    "string_decoder": "^1.1.1",
     "string-width": "^3.1.0",
     "string.prototype.trim": "^1.2.7",
     "string.prototype.trimend": "^1.0.6",
     "string.prototype.trimstart": "^1.0.6",
+    "string_decoder": "^1.1.1",
     "strip-ansi": "^3.0.1",
     "strip-bom-string": "^1.0.0",
     "strip-eof": "^1.0.0",
@@ -810,6 +811,7 @@
     "vue-template-es2015-compiler": "^1.9.1",
     "vuepress-html-webpack-plugin": "^3.2.0",
     "vuepress-plugin-container": "^2.1.5",
+    "vuepress-plugin-right-anchor": "^0.5.5",
     "vuepress-plugin-smooth-scroll": "^0.0.3",
     "watchpack": "^1.7.5",
     "watchpack-chokidar2": "^2.0.1",

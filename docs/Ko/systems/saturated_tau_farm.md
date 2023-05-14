@@ -9,6 +9,7 @@ blood magic 용으로 만든 saturated tau 팜
 
 ![asdf](../../asset/systems/saturated_tau_farm/before.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - 길드 주변

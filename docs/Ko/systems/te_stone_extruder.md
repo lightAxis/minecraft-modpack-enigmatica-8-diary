@@ -18,7 +18,7 @@ Entalgled 블럭을 사용하여 깔끔하게 정리해보려 했지만, 인탱�
 현재 이그니우스 익스트루더의 조합법은 총 65개이며, 현재 22개의 칸이 만들어진 상태이다. 
 
 
-
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  

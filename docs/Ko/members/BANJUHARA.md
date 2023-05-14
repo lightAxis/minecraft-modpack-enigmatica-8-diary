@@ -20,12 +20,14 @@
 
 - 추가 예정
 
+## 타 문서와의 관계
 <!-- 참여 목록 -->
 <!-- tag_target_open:reverse_link_list:member_contribute -->
 <!-- tag_arg:preset:member_contribute -->
 ### 참여 목록
 |문서|기여 내용|
 |---|---|
+|[개인 주택 - BANJUHARA](../buildings/house_BANJUHARA.md)|건축|
 |[광물 정제 플랜트 - 5배](../systems/mk_ore_processing_plant_5x.md)|파이프라인 설계 및 제작 / 유지보수|
 |[러브하우수 ](../systems/love_house.md)|최다우수이용고객|
 |[레이저 드릴](../systems/laser_drill.md)|최초 시작|

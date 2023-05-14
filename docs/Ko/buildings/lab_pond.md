@@ -7,7 +7,7 @@ lab내부의 인공연못 기게가 대부분을 차지할 예정인 연구소�
 
 ![asdf](../../asset/buildings/lab_pond/main.jpg)
 
-
+## 타 문서와의 관계
 ### 상위 장소
 <!-- tag_source_open:link_list:child_spot -->
 - [연구소 - 메인](lab.md)

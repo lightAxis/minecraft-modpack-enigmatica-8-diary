@@ -6,7 +6,7 @@
 
 현재 틀은 다음과 같습니다.
 
-### 틀 목록
+## 틀 목록
 
 - [틀:건축물](frames_buildings.md)  
 - [틀:시스템](frames_systems.md)

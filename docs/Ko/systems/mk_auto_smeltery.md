@@ -12,14 +12,14 @@ XNet은 전력, 아이템, 유체까지 전부 node만 연결되어있다면 통
 XNet 컨트롤러를 통한 파이핑 중앙화, 서버 친화적인 모드로 렉 유발도 적다.
 :::
 
-### 연결 구조
+## 연결 구조
 
 Xnet을 통해 다음과 같이 라우팅된다.
 
 ![sdf](../../asset/systems/mk_auto_smeltery/RS_Xnet_piping.jpg)
 
 
-
+## 업데이트 내역
 ### 2023-05-06 대량 병렬 처리를 위해 32*9스레드 구조로 변경됨
 
 이전
@@ -28,7 +28,7 @@ Xnet을 통해 다음과 같이 라우팅된다.
 이후
 ![asdf](../../asset/systems/mk_auto_smeltery/main.jpg)
 
-
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  

@@ -17,6 +17,7 @@
 
 텔레포터 트랜잭션으로 이용할 수 있는 모든 방은 [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)에서 확인할 수 있다.
 
+## 업데이트 내역
 ### 2023-05-07 새로운 방 많이 추가
 
 이전
@@ -25,6 +26,7 @@
 이후
 ![asdf](../../asset/systems/teleporter_hub/main.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  

@@ -8,6 +8,7 @@
 
 ![한때는](../../asset/systems/mk_sulfer_plant/before.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - 마이닝 디멘션

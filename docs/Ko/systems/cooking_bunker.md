@@ -10,6 +10,7 @@
 
 ![외관](../../asset/systems/cooking_bunker/deco.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [바람이 머무는 식당](../buildings/windy_restaurant.md)

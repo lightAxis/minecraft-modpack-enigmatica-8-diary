@@ -32,6 +32,7 @@
 
 ![asdf](../../asset/buildings/guild_house/main_old.jpg)
 
+## 타 문서와의 관계
 ### 상위 장소
 <!-- tag_source_open:link_list:child_spot -->
 - 오버월드

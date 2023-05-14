@@ -16,6 +16,7 @@ happyjourney가 곡선을 설계하고 그 외에 노가다는 jasuk500이 담�
 ![asdf](../../asset/buildings/ocr_harmonic_bridge/view1.jpg)
 :::
 
+## 타 문서와의 관계
 ### 상위 장소
 <!-- tag_source_open:link_list:child_spot -->
 - [오버월드 순환 철도](../buildings/overworld_circular_railway.md)

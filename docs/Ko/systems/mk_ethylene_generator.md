@@ -10,6 +10,7 @@
 :::
 <!-- tag_close -->
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [연구소 - 메카](../buildings/lab_meka_lab.md)

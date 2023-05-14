@@ -6,6 +6,7 @@ create 회전 베어링을 이용한 접이식 망원경을 볼 수 있는 천�
 
 ![asdf](../../asset/buildings/observatory/main1.jpg)
 
+## 타 문서와의 관계
 ### 상위 장소
 <!-- tag_source_open:link_list:child_spot -->
 - 길드 주변

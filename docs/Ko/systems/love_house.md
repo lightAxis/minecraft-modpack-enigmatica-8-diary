@@ -5,6 +5,7 @@
 ![메인1](../../asset/systems/love_house/main1.jpg)  
 ![메인2](../../asset/systems/love_house/main2.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - 길드 주변

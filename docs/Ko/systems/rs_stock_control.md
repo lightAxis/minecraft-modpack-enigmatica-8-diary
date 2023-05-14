@@ -14,7 +14,7 @@ RS의 시스템은 자동 조합 시스템을 지원한다.
 
 **우리는 Requestify라는 애드온을 통해 이 문제를 훨씬 간결하게 해결하였다.**
 
-### Requestify 애드온
+## Requestify 애드온
 
 Requetify는 물리적으로 구현해야 했던 Detector를 통한 신호를 아예 RS 네트워크 내부적으로 동작할 수 있도록 해준다.  
 딱 하나, Requestifier만을 추가하는데 UI는 다음과 같다.
@@ -26,6 +26,7 @@ Requetify는 물리적으로 구현해야 했던 Detector를 통한 신호를 �
 
 이를 통해 재고 컨트롤의 중앙화가 가능해졌다.
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  

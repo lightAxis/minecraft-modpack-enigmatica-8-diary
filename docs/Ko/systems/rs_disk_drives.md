@@ -18,7 +18,7 @@ RS 시스템의 잡다한 아이템들이 전부 저장되므로, 수량이 적�
 현재 우리 길드에서는 이를 위한 별도의 [BlackHole룸](rs_black_hole.md)을 설계하여 적용하였다.
 :::
  
-
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  

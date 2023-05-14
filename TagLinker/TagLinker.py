@@ -25,6 +25,7 @@ class TagLinker:
         self._LinkExtractor: LinkExtractor = DefaultLinkExtractor()
         self._TagParsers: Dict[str, TagParser] = dict()
         self._TagGenerators: Dict[str, TagGenerator] = dict()
+        self._BlackListFiles: List[str] = list()
         pass
 
     def __recursive_filePath_query(self, path_: str, paths: List[str]):
@@ -61,11 +62,17 @@ class TagLinker:
                 "Tag Generator type already exist in TagLInker!, TagType : " + generator.getGeneratorType())
         self._TagGenerators[generator.getGeneratorType()] = generator
 
+    def add_BlackListFilePath(self, path: str):
+        self._BlackListFiles.append(path)
+
     def LinkTargets(self, dirPath: str):
 
         # query all file path in dir
         filePaths: List[str] = []
         self.__recursive_filePath_query(dirPath, filePaths)
+        filePaths = [
+            file for file in filePaths if file not in self._BlackListFiles]
+        print(filePaths)
 
         # parse every tag infos from files
         tagInfos: List[tag_desc_t] = []

@@ -46,13 +46,14 @@
 - Teleporter 허브 총괄  
 [텔레포터 허브](../systems/teleporter_hub.md)
 
-
+## 타 문서와의 관계
 <!-- 참여 목록 -->
 <!-- tag_target_open:reverse_link_list:member_contribute -->
 <!-- tag_arg:preset:member_contribute -->
 ### 참여 목록
 |문서|기여 내용|
 |---|---|
+|[개인 주택 - jasuk500](../buildings/house_jasuk500.md)|건축|
 |[광물 정제 플랜트 - 5배](../systems/mk_ore_processing_plant_5x.md)|텔레포터 배치|
 |[나무 농장 (크리에이트 카트)](../systems/tree_farm_create_cart.md)|기획 및 시스템 개발|
 |[네더 금 농장](../systems/nether_gold_farm.md)|텔레포터 배치 / RS 네트워크 연결 관리|
@@ -73,6 +74,7 @@
 |[순환 철도 - 러쉬 스택](../buildings/ocr_lush_stack.md)|역사 제작, 레일 배치|
 |[순환 철도 - 스파크 타이드](../buildings/ocr_spark_tide.md)|레일 배치|
 |[써멀 익스팬션 자동 마그마 크루시블](../systems/te_auto_magma_crucible.md)|시스템 설계 및 제작|
+|[써멀 익스팬션 자동 멀티서보 프레스](../systems/te_auto_multiservo_press.md)|시스템 설계 및 제작|
 |[써멀 익스팬션 자동 스톤 익스트루더](../systems/te_stone_extruder.md)|시스템 설계 및 제작|
 |[써멀 익스팬션 자동 인덕션 스멜터](../systems/te_auto_induction_smelter.md)|시스템 설계 및 제작|
 |[써멀 익스팬션 자동 플루이드 인캡슐레이터 - 물](../systems/te_auto_fluid_encapsulator_water.md)|시스템 설계 및 제작|

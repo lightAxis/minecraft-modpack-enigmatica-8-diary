@@ -15,6 +15,7 @@
 가공 다이어그램은 다음과 같다:
 ![다이어그램](../../asset/systems/mk_ore_processing_plant/diagram.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  

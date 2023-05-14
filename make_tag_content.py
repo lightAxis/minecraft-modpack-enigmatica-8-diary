@@ -15,5 +15,8 @@ if __name__ == "__main__":
     tagLinker.add_TagGenerator(ReverseLinkListTagGenerator())
     tagLinker.add_TagGenerator(FrameTagGenerator())
 
+    tagLinker.add_BlackListFilePath(
+        "docs/Ko/externalSource/TagLinkerReadme/readme.md")
+
     tagLinker.LinkTargets("docs/Ko")
     pass

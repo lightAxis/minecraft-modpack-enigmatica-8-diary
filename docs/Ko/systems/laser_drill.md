@@ -24,13 +24,16 @@ Entagled 블럭을 사용하여 내부에 귀찮은 전선을 치웠다.
 :::tip
 생산되는 모든 광물은 전부 RS main으로 빨려들어가지만, [블랙홀 룸](rs_black_hole.md)에서 안정적으로 자원을 보관하고 있으므로 창고가 터질 위험성은 없다.
 :::
-### 예전의 모습
+
+## 업데이트 내역
+### 초창기의 모습
 
 처음에 소박하게 시작했던 레이저 드릴의 모습
 이 상태로 일주일 넘게 방치되어 있었다.
 
 ![asdf](../../asset/systems/laser_drill/old.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 -  길드 지하 2층

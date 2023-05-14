@@ -21,6 +21,7 @@ Alax's Mobs 모드와 충돌이 난 것일 수도 있다.
 
 이후는 새로 들어온 [EconomyBang](../members/EconomyBang.md) 에게 네추럴 아우로라를 넘겼다
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - 길드 주변

@@ -2,7 +2,7 @@
 
 건축물에 관련된 틀입니다.
 
-### 오버월드 순환 철도
+## 오버월드 순환 철도
 <!-- tag_source_open:copy:overworld_circular_rail -->
 :::tip 오버월드 순환 철도 노선도
 [오버월드 순환 철도](../buildings/overworld_circular_railway.md)의 모든 역 목록

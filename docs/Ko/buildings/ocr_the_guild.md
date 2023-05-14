@@ -14,7 +14,7 @@
 
 오버월드 순환 철도의 하나이다.
 
-
+## 타 문서와의 관계
 ### 상위 장소
 <!-- tag_source_open:link_list:child_spot -->
 - 길드 주변

@@ -16,7 +16,7 @@ class desc_t:
 
 
 def __make_embed_line_by_desc(desc: desc_t):
-    line1 = "- ["+desc.Name+"]("+desc.RelPath+")  \n"
+    line1 = "["+desc.Name+"]("+desc.RelPath+")"
     line2 = desc.Desc
     return line1, line2
 
@@ -35,10 +35,12 @@ def __embed_name_desc(mainPath: str, descs: List[desc_t]):
             print("start embedding systems list..")
             writing_desc = True
             new_lines.append(line)
+            new_lines.append("|이름|내용|\n")
+            new_lines.append("|---|---|\n")
             for desc in descs:
                 line1, line2 = __make_embed_line_by_desc(desc)
-                new_lines.append(line1)
-                new_lines.append(line2)
+                line2 = line2.replace("\n", "")
+                new_lines.append("|" + line1+"|"+line2+"|\n")
                 print("Name: " + desc.Name)
             continue
 

@@ -8,6 +8,7 @@
 
 ![asdf](../../asset/buildings/red_clocktower/main.jpg)
 
+## 타 문서와의 관계
 ### 상위 장소
 <!-- tag_source_open:link_list:child_spot -->
 - 길드 주변

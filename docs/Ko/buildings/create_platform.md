@@ -6,6 +6,7 @@ Create 시스템을 위한 모듈러 동력 전달 플랫폼.
 
 ![asdf](../../asset/buildings/create_platform/main.jpg)
 
+## 타 문서와의 관계
 ### 상위 장소
 <!-- tag_source_open:link_list:child_spot -->
 - 길드 주변

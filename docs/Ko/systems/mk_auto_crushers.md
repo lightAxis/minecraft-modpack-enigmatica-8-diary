@@ -13,6 +13,7 @@ RS 네트워크에 연결되어 있으며, 주로 조약돌->자갈->모래 순�
 XNet에서 input 상자에서 템을 크러셔들로 라우팅 할 때, 아이템 수량을 9의 배수로 뽑아내게 하고, 라우팅 방법은 round robin, 5ms, order로 세팅한다.
 :::
 
+## 업데이트 내역
 ### 2023-05-06 대량 병렬 처리 패치 
 
 이전  
@@ -22,7 +23,7 @@ XNet에서 input 상자에서 템을 크러셔들로 라우팅 할 때, 아이�
 이후
 ![asdf](../../asset/systems/mk_auto_crushers/main.jpg)
 
-
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  

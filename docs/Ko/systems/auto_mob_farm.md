@@ -24,6 +24,7 @@ RS 내부의 몹 드랍템 수량을 체크하며 자동으로 스폰하고 잡�
 
 ![asdf](../../asset/systems/auto_mob_farm/nulifier.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  

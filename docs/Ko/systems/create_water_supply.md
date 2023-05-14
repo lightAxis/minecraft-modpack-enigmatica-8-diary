@@ -4,6 +4,7 @@
 
 ![메인](../../asset/systems/create_water_supply/main.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - 길드 주변

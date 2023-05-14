@@ -9,6 +9,7 @@
 
 ![메인2](../../asset/systems/create_waterwheel/main2.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - 길드 주변

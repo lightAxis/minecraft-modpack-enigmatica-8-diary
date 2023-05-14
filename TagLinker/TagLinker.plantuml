@@ -1,0 +1,168 @@
+@startuml TagLinker
+
+package EnumGroup{
+
+
+enum TagType{
+    OPEN
+    CLOSE
+    ARGUMENT
+}
+
+enum TagDirection{
+    SOURCE
+    TARGET
+}
+
+struct tag_desc_t{
+    str FilePath
+    str FileName
+    str FileDesc
+    TagType Type
+    TagDirection Direction 
+    str TagStyle
+    str TagName
+    str TagStr
+    List[str] Content
+    Dict[str, str] ArgDict
+}
+
+struct link_pair_t{
+    str Name
+    str LinkPath
+}
+
+struct tag_source_t{
+    str TargetName
+    List[str] TargetDesc
+    str TargetPath
+    str SourceName
+    str SourcePath
+    str SourceDesc
+    List[str] Content
+}
+tag_desc_t --> TagType
+tag_desc_t --> TagDirection
+
+struct Extractors_t{
+    LinkExtractor Link
+    NameDescExtractor NameDesc
+    TagExtractor Tag
+}
+
+}
+
+
+package TagGroup{
+
+
+
+abstract TagParser{
+    + {abstract}ParseDescs_inContent(tagInfo: tag_desc_t, extractors: Extractors_t) -> List[tag_source_t]
+    + {abstract}getParserType()->str
+}
+
+class DescriptionTagParser extends TagParser {
+}
+
+class SourceInfoTagParser extends TagParser{
+
+}
+
+class CopyTagParser extends TagParser  {
+
+}
+
+class FrameTageParser extends TagParser {
+
+}
+
+
+abstract TagGenerator{
+ + Generate_inLines(lines: List[str], tagInfo: tag_desc_t, tagsources: List[tag_source_t], extractors: Extractors_t) -> List[str]:
+ + {abstract}Generate_Content(tagInfo: tag_desc_t, tagsources: List[tag_source_t], extractors: Extractors_t) -> List[str]:
+ + {abstract}getGeneratorType() -> str:
+}
+
+class ReverseLinkTagGen extends TagGenerator{
+
+}
+
+
+class ListTagGen extends TagGenerator{
+
+}
+
+class ListInFolderTagGen extends TagGenerator{
+
+}
+
+class PasteTageGenerator extends TagGenerator{
+
+}
+
+class FrameTagGenerator extends TagGenerator{
+
+}
+
+
+
+abstract TagExtractor{
+    + {abstract}extractFromLine(line: str) -> Optional[tag_desc_t]:
+    + {abstract}extractFromFile(filepath: str) -> List[tag_desc_t]:
+}
+
+class DefaultTagExtractor extends TagExtractor{
+}
+
+abstract LinkExtractor{
+    + GenerateLineStr() -> str:
+    + GenerateLinkPairStr(linkPair_t: link_pair_t) -> str:
+    + setLineContents(lineContents: List[Union[str, link_pair_t]]):
+    + getLineContents() -> List[Union[str, link_pair_t]]:
+    + {abstract}ExtractFromLine(line: str) -> List[Union[str, link_pair_t]]:
+}
+
+class DefaultLinkExtractor extends LinkExtractor{
+
+}
+
+abstract NameDescExtractor{
+    + {abstract}extractFromFileLines(lines: List[str]) -> Tuple[bool, str, str]:
+    + {abstract}extractFromFilePath(filepath: str) -> Tuple[bool, str, str]:
+}
+class DefaultNameDescExtractor extends NameDescExtractor{
+
+}
+
+
+
+class TagLinker{
+- TagExtractor _TagExtractor
+- NameDescExtractor _NameDescExtractor
+- LinkExtractor _LinkExtractor
+- Dict[str, TagParser] _TagParsers
+- Dict[str, TagGenerator] _TagGenerators
+- List[str] _BlackListFiles
+
+- __recursive_filePath_query(self, path_: str, paths: List[str]):->List[str]
++ set_TagExtractor(self, ext: TagExtractor):
++ set_NameDescExtractor(self, ext: NameDescExtractor):
++ set_LinkExtractor(self, ext: LinkExtractor):
++ add_TagParser(self, parser: TagParser):
++ add_TagGenerator(self, generator: TagGenerator):
++ add_BlackListFilePath(self, path: str):
++ LinkTargets(self, dirPath: str):
+}
+
+TagLinker ---> TagParser
+TagLinker ---> TagGenerator
+TagLinker ---> TagExtractor
+TagLinker ---> LinkExtractor
+TagLinker ---> NameDescExtractor
+}
+
+TagGroup ...> EnumGroup
+
+
+@enduml

@@ -6,6 +6,9 @@ Github page & VuePress로 구성되었으며,
 repo 주소는 [https://github.com/lightAxis/minecraft-modpack-enigmatica-8-diary](https://github.com/lightAxis/minecraft-modpack-enigmatica-8-diary)
 입니다.
 
+자체 개발한 [TagLinker](externalSource/TagLinkerReadme/readme.md) 라이브러리를 통해 역링크 및 틀을 자동으로 생성합니다.
+
+
 ## 개요
 
 ### [서버 소개](introduction/introduction.md)

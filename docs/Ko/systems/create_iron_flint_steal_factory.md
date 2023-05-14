@@ -6,6 +6,7 @@
 
 ![서브1](../../asset/systems/create_iron_flint_steal_factory/sub1.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [Create 플랫폼](../buildings/create_platform.md)

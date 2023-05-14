@@ -21,6 +21,7 @@
 
 ![sdf](../../asset/ie_main/../systems/ie_main/no_coil_mineral.jpg)
 
+## 업데이트 내역
 ### 2023-05-09 추가
 
 어셈블러 : 사람이 제작하는 대부분을 제작할 수 있는 제작기계
@@ -31,7 +32,7 @@
 이머시브 엔지니어링용 수차 하지만 크기가 크고 효율도 좋은편은 아니다
 ![asdf](../../asset/systems/ie_main/assem_arcfurnace.jpg)
 
-
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - 마이닝 디멘션

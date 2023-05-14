@@ -2,6 +2,7 @@
 
 const getSidebar = require('./get_sidebar.js');
 
+
 module.exports={
     base: "/minecraft-modpack-enigmatica-8-diary/",
     // title: "Minecraft Modpack Guide",
@@ -16,15 +17,19 @@ module.exports={
           }
         ],
         '@vuepress/back-to-top',
-        [
-        'vuepress-plugin-right-anchor',
-        {
-          expand: {
-            default: false,
-            trigger: 'click'
-          },
-        }
-        ]
+        "@vuepress/last-updated",
+        "vuepress-plugin-code-copy",
+        '@vuepress/medium-zoom',
+        '@vuepress/nprogress'//,
+        // [
+        // 'vuepress-plugin-right-anchor',
+        // {
+        //   expand: {
+        //     clickModeDefaultOpen: false,
+        //     trigger: 'click'
+        //   },
+        // }
+        // ]
     ],
     locales:{
         '/Ko/': {
@@ -41,7 +46,7 @@ module.exports={
     },
     themeConfig: {
         hb_version: 'latest',
-        sidebarDepth: 0,
+        sidebarDepth: 2,
         searchMaxSuggestions: 20,
         lastUPdated: "Last Updated",
 

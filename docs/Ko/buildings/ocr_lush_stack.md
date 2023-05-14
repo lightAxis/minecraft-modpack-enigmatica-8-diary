@@ -40,7 +40,7 @@
 ![asdf](../../asset/buildings/ocr_lush_stack/init9.jpg)
 :::
 
-
+## 타 문서와의 관계
 <!-- ### 상위 장소 -->
 <!-- tag_source_open:link_list:child_spot -->
 <!-- tag_close -->

@@ -4,7 +4,7 @@
 
 ![asdf](../../asset/systems/mk_auto_enrichment_chamber/main.jpg)
 
-### 기계 구성
+## 기계 구성
 
 현재 최고 티어 Elite Factory 32대를 사용하고 있다.
 
@@ -17,6 +17,7 @@ XNet의 아이템 파이핑은 아이템 슬롯을 순회하여 동작하므로,
 따라서 각 기계 아래에 barrel 등으로 아이템 버퍼를 만든 다음, 각 기계에서 해당 방향으로 auto-eject를 사용하여 차지하는 아이템 슬롯의 개수를 줄이는 것이 좋다.
 :::
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  

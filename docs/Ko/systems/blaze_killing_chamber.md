@@ -6,6 +6,7 @@
 
 ![메인](../../asset/systems/blaze_killing_chamber/main.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - 길드 지하 2층

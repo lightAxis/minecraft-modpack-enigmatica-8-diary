@@ -10,6 +10,7 @@ create의 모든 케이스를 생산 할 수 있는 자동화 라인.
 
 ![메인2](../../asset/systems/create_case_line/main2.jpg)
 
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [Create 플랫폼](../buildings/create_platform.md)

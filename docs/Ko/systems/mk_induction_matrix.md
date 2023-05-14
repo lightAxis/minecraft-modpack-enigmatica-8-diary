@@ -16,14 +16,14 @@
 이와같은 중요 시설은 반드시 보호되어야 하므로, 현재 컴팩트 머신 차원에 위치해 있으며
 텔레포터 허브에 다음과 같이 연결되어 있다.  
 
-### 에너지 파이프라인
+## 에너지 파이프라인
 
 Flux Network를 사용하여 전력이 이동하며, NPH_Gen 라인으로부터 입력을 받고, NPH라인을 통해 각 기계로 전달된다.
 다이어그램은 다음과 같다
 
 ![asdf](../../asset/systems/mk_induction_matrix/FluxtNewtork.jpg)
 
-
+## 타 문서와의 관계
 ### 위치
 <!-- tag_source_open:link_list:building_spot -->
 - [컴팩트 머신 차원](../buildings/compact_machine_dimension.md)  

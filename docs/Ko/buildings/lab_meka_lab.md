@@ -12,6 +12,7 @@
 
 "???:벽 뚫자 !!!:아니 거기는!!ㅠㅠ" 
 
+## 타 문서와의 관계
 ### 상위 장소
 <!-- tag_source_open:link_list:child_spot -->
 - [연구소 - 메인](lab.md)
@@ -35,6 +36,7 @@
 |[메카니즘 자동 병렬 크러셔](../systems/mk_auto_crushers.md)|지금은 컴팩트 머신 차원으로 옮겨졌다.|
 |[메카니즘 자동 컴프레싱 머신](../systems/mk_auto_compressing.md)||
 |[써멀 익스팬션 자동 마그마 크루시블](../systems/te_auto_magma_crucible.md)||
+|[써멀 익스팬션 자동 멀티서보 프레스](../systems/te_auto_multiservo_press.md)||
 |[써멀 익스팬션 자동 인덕션 스멜터](../systems/te_auto_induction_smelter.md)||
 |[써멀 익스팬션 자동 플루이드 인캡슐레이터 - 물](../systems/te_auto_fluid_encapsulator_water.md)||
 |[에틸렌 발전소](../systems/mk_ethylene_generator.md)||

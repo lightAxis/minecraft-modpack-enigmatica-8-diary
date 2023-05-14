@@ -9,7 +9,7 @@
 
 볼케이노 바이옴을 현수 모노레일을 타서 이동하며 관람할 수 있다.
 
-
+## 타 문서와의 관계
 ### 상위 장소
 <!-- tag_source_open:link_list:child_spot -->
 - [순환 철도 - 스파크 타이드](ocr_spark_tide.md)

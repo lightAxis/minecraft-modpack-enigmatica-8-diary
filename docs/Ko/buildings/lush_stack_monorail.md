@@ -8,11 +8,13 @@
 
 러쉬 스택 바이옴을 현수 모노레일을 타서 이동하며 관람할 수 있다.
 
+이 과정에서 [불가능한 레시피 : 모노레일 사태](../history/history.md#imposible_recipe)가 터져서 한바탕 소동이 일었다. 
+
 현재 계속 건설 중에 있다.
 
 
 
-
+## 타 문서와의 관계
 ### 상위 장소
 <!-- tag_source_open:link_list:child_spot -->
 - [순환 철도 - 러쉬 스택](ocr_lush_stack.md)

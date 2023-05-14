@@ -93,7 +93,7 @@ Mega Torch를 사용하여 집을 포함한 주변의 모든 몬스터를 없앰
 월드맵의 용량이 2.2기가->6기가로 늘었다. 
 프리청크 로딩에 6시간, 다인맵 렌더링에는 총 15시간이 걸렸다.
 
-:::details 넓어진 월드맵
+:::details 넓어진 월드맵  
 ![asdf](../../asset/history/2023_05_11_2nd_chunk_preloading/dynmap_init_flat.jpg)
 ![asdf](../../asset/history/2023_05_11_2nd_chunk_preloading/dynmap_init_surface.jpg)
 :::
@@ -108,11 +108,10 @@ JEI에서 iron sheet가 검색되진 않지만, 조합은 가능하며, monorail
 
  :::details 당시 사진들
  
-수정된 서버쪽 js 코드
-
+수정된 서버쪽 js 코드  
  ![asdf](../../asset/history/2023_05_15_impossible_recipe/revised_code.jpg)
 
-수정된 코드
+수정된 코드  
  ```javascript
 // server_files\enig8\kubejs\server_scripts\base\recipes\errata\erratas.js
 onEvent('recipes', (event) => {
@@ -127,10 +126,10 @@ onEvent('recipes', (event) => {
 });
  ```
 
- 추가된 조합법 사진
-
+ 추가된 조합법 사진  
  ![asdf](../../asset/history/2023_05_15_impossible_recipe/recipe.jpg)
 
-
+모노레일 트랙이 만들어지는 모습  
+![adsf](../../asset/history/2023_05_15_impossible_recipe/making_monorail_track.jpg)
 
  :::

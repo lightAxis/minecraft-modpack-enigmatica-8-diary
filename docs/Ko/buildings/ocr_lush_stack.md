@@ -2,7 +2,7 @@
 
 아름다운 바다와 높게 솟은 빛나는 돌기둥들.
 
-![asdf](../../asset/blank_img.jpg)
+![asdf](../../asset/buildings/ocr_lush_stack/main.jpg)
 
 <!-- tag_target_open:frame:overworld_circular_rail -->
 :::tip 오버월드 순환 철도 노선도
@@ -17,6 +17,28 @@
 - L층: 열차에 탑승할 수 있는 정거장이 있다. 
 - F2층 : 돌기둥의 위로 올라가 전망대가 있다. 맨 위의 호수 밑바닥과 연결되어 있어서 수중 통로를 통과한다.
 - B1층 : 러쉬스택 역사 내의 카페, 음식점이 위치해 있으며, 러쉬 스택 모노레일로 갈 수 있는 다리가 있다.
+
+:::details 사진들
+
+첫 철도 관통 직후  
+![asdf](../../asset/buildings/ocr_lush_stack/init1.jpg)
+승강장 내부 공간  
+![asdf](../../asset/buildings/ocr_lush_stack/init2.jpg)
+반대편 플랫폼으로 가는 지하 공간  
+![asdf](../../asset/buildings/ocr_lush_stack/init3.jpg)
+철도 오는 뷰  
+![asdf](../../asset/buildings/ocr_lush_stack/init4.jpg)
+엘레베이터가 들어갈 공간  
+![asdf](../../asset/buildings/ocr_lush_stack/init5.jpg)
+모노레일 타러 올라가려고 했던 공간  
+![asdf](../../asset/buildings/ocr_lush_stack/init6.jpg)
+돌기둥 위에 있는 전망대  
+![asdf](../../asset/buildings/ocr_lush_stack/init7.jpg)
+호수 아래에 보이는 엘레베이터  
+![asdf](../../asset/buildings/ocr_lush_stack/init8.jpg)
+지하 1층 엘레베이터만 있는 상태  
+![asdf](../../asset/buildings/ocr_lush_stack/init9.jpg)
+:::
 
 
 <!-- ### 상위 장소 -->

@@ -135,3 +135,20 @@ onEvent('recipes', (event) => {
 ![adsf](../../asset/history/2023_05_15_impossible_recipe/making_monorail_track.jpg)
 
  :::
+
+ ## 2023-05-20 3차 모드 추가
+
+ 이번엔 서버의 후반부에 접어드는 시기로, 주로 데코 및 조명 관련으로 모드가 추가되었다. 
+
+ 추가된 모드는 다음과 같다
+ - Nosiphus Furniture Mod
+ - Reeves Furniture
+ - Paladin Furniture
+ - Simply Light
+ - Searchlight
+
+:::details 사진
+![asdf](../../asset/history/2023_05-20_3rdmodadd/paladin_furniture.jpg)
+
+![asdf](../../asset/history/2023_05-20_3rdmodadd/simply_light.jpg)
+:::

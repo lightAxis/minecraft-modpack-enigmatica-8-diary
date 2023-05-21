@@ -136,6 +136,7 @@ onEvent('recipes', (event) => {
 
  :::
 
+<span id="history_3rd_mod_add"></span>
  ## 2023-05-20 3차 모드 추가
 
  이번엔 서버의 후반부에 접어드는 시기로, 주로 데코 및 조명 관련으로 모드가 추가되었다. 

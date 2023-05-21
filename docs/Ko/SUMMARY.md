@@ -33,6 +33,7 @@
   * [붉은 시계탑](buildings/red_clocktower.md)
   * [식물의 방](buildings/room_of_plant.md)
   * [바람이 머무는 식당](buildings/windy_restaurant.md)
+  * [탐욕의 탑](buildings/tower_of_avarice.md)
   * [컴팩트 머신 차원](buildings/compact_machine_dimension.md)
   * [개인 주택 - jasuk500](buildings/house_jasuk500.md)
   * [개인 주택 - BANJUHARA](buildings/house_BANJUHARA.md)

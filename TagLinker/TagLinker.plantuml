@@ -62,18 +62,12 @@ abstract TagParser{
     + {abstract}getParserType()->str
 }
 
-class DescriptionTagParser extends TagParser {
-}
-
-class SourceInfoTagParser extends TagParser{
-
-}
 
 class CopyTagParser extends TagParser  {
 
 }
 
-class FrameTageParser extends TagParser {
+class LinkListTagParser extends TagParser {
 
 }
 
@@ -84,22 +78,10 @@ abstract TagGenerator{
  + {abstract}getGeneratorType() -> str:
 }
 
-class ReverseLinkTagGen extends TagGenerator{
+class ReverseLinkListTagGenerator extends TagGenerator{
 
 }
 
-
-class ListTagGen extends TagGenerator{
-
-}
-
-class ListInFolderTagGen extends TagGenerator{
-
-}
-
-class PasteTageGenerator extends TagGenerator{
-
-}
 
 class FrameTagGenerator extends TagGenerator{
 

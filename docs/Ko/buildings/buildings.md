@@ -15,7 +15,7 @@
 |---|---|
 |[ Create 플랫폼](create_platform.md)|Create 시스템을 위한 모듈러 동력 전달 플랫폼.|
 |[ 개인 주택 - BANJUHARA](house_BANJUHARA.md)|BANJUHARA의 개인 주택이다.|
-|[ 개인 주택 - jasuk500](house_jasuk500.md)|jasuk500의 개인 주택이다.|
+|[ 개인 주택 - jasuk500](house_jasuk500.md)|jasuk500의 개인 모던하우스 주택|
 |[ 길드 하우스](guild_house.md)|길드의 메인 하우스. 모두의 침대가 위치해 있다.|
 |[ 답없는 대나무](bamboo_hell.md)|서버의 대나무의 성장제한이 없어서 방치하면 정말 끝도 없이 자라서 흉물이 된다.|
 |[ 러쉬 스택 모노레일](lush_stack_monorail.md)|러쉬 스택 지역을 가까이서 볼 수 있는 모노레일|
@@ -35,6 +35,7 @@
 |[ 지옥문](door_of_hell.md)|지옥으로 통하는 메인 게이트|
 |[ 천문대](observatory.md)|create 회전 베어링을 이용한 접이식 망원경을 볼 수 있는 천문대.|
 |[ 컴팩트 머신 차원](compact_machine_dimension.md)|한블럭 안의 주머니 차원 & 렉없는 클린 차원|
+|[ 탐욕의 탑](tower_of_avarice.md)|탐욕을 제대로 보여줄 예정인 무언가|
 |[ 태초의 건축물](primitive_building.md)|서버에서 만든 최초의 건축물.|
 |[ 하모닉 브릿지](ocr_harmonic_bridge.md)|러쉬 스택과 스파크 타이드 역 사이를 잇는 거대한 현수교|
 <!-- systems_list_dest_close -->

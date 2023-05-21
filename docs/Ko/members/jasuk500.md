@@ -73,6 +73,7 @@
 |[메카니즘 자동 컴프레싱 머신](../systems/mk_auto_compressing.md)|시스템 설계 및 제작|
 |[순환 철도 - 러쉬 스택](../buildings/ocr_lush_stack.md)|역사 제작, 레일 배치|
 |[순환 철도 - 스파크 타이드](../buildings/ocr_spark_tide.md)|레일 배치|
+|[순환 철도 - 크라시움](../buildings/ocr_cratium.md)|레일 배치|
 |[써멀 익스팬션 자동 마그마 크루시블](../systems/te_auto_magma_crucible.md)|시스템 설계 및 제작|
 |[써멀 익스팬션 자동 멀티서보 프레스](../systems/te_auto_multiservo_press.md)|시스템 설계 및 제작|
 |[써멀 익스팬션 자동 스톤 익스트루더](../systems/te_stone_extruder.md)|시스템 설계 및 제작|

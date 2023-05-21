@@ -36,6 +36,7 @@
 |[붉은 시계탑](../buildings/red_clocktower.md)|건축|
 |[순환 철도 - 길드](../buildings/ocr_the_guild.md)|철도 배치, 역사 제작, 역사 데코|
 |[순환 철도 - 스파크 타이드](../buildings/ocr_spark_tide.md)|역사 건축|
+|[순환 철도 - 크라시움](../buildings/ocr_cratium.md)|레일 배치|
 |[식물의 방](../buildings/room_of_plant.md)|건축|
 |[연구소 - 메인](../buildings/lab.md)|건축|
 |[연구소 - 메카](../buildings/lab_meka_lab.md)|건축|

@@ -49,5 +49,6 @@
 |[몹 스포터 농장](../systems/mobspawner_farm.md)|텔레포터 허브로 이동할 수 있다.|
 |[써멀 익스팬션 자동 스톤 익스트루더](../systems/te_stone_extruder.md)|텔레포트 허브를 통해 이동할 수 있다.|
 |[자동 몹 농장](../systems/auto_mob_farm.md)|텔레포터 허브를 통해 이동할 수 있다.|
+|[크리에이트 자동 공정 룸](../systems/create_auto_factory.md)|텔레포터 허브를 통해 이동할 수 있다.|
 |[텔레포터 트랜잭션](../systems/teleporter_hub.md)|컴팩트 머신 간의 이동을 돕는다|
 <!-- tag_close -->

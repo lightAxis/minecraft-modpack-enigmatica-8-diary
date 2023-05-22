@@ -16,6 +16,20 @@
 
 하나의 철도 당 n대의 열차가 자동으로 달리고 있으며, 최소 배차 간격은 n분이다.
 
+
+## 연결 건축물
+### 라임웨이 브릿지
+길드 역과 러쉬스택 역 사이의 작은 다리.  
+![asdf](../../asset/buildings/overworld_circular_railway/limeway_bridge.jpg)
+
+### 퍼펜디큘러 브릿지
+길드 역과 러쉬스택 역 사이의 직각 다리.  
+![asdf](../../asset/buildings/overworld_circular_railway/perpendicular_bridge.jpg)
+
+### 구이나 터널
+스파크 타이드 역과 크라시움 역 사이에 작은 터널.
+![asdf](../../asset/buildings/overworld_circular_railway/guina_tunnel.jpg)
+
 ## 타 문서와의 관계
 ### 상위 장소
 <!-- tag_source_open:link_list:child_spot -->
@@ -29,6 +43,7 @@
 ### 하위 장소 목록
 |시설|세부 사항|
 |---|---|
+|[아스펜 정거장](ocr_aspen_station.md)|스파크 타이드와 크라시움 역 사이의 작은 정거장|
 |[하모닉 브릿지](ocr_harmonic_bridge.md)|러쉬 스택과 스파크 타이드 역 사이를 잇는 거대한 현수교|
 <!-- tag_close -->
 

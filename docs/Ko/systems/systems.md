@@ -67,7 +67,9 @@
 |[ 철도 생성기](rail_generator.md)|위쪽 큰 상자에 철 조각을 넣으면 알아서 만들어줌|
 |[ 컴팩트 머신 메인](cm_compactmachine_main.md)|모든 컴팩트 머신 본체 보관소|
 |[ 쿠킹 벙커](cooking_bunker.md)|모든 파머스 딜라이트 요리를 목표로 하는 쿠킹 벙커|
+|[ 크리에이트 자동 공정 룸](create_auto_factory.md)|크리에이트 관련 시설 중 RS에 병합된 다양한 시설군이다.|
 |[ 텔레포터 트랜잭션](teleporter_hub.md)|컴팩트 머신 차원 간을 연결하는 텔레포터 교차로 시설|
+|[ 팅커스 컨스트럭트 용광로](tc_smeltery.md)|![asdf](../../asset/systems/tc_smeltery/main.jpg)|
 |[ 포화된 타우 농장](saturated_tau_farm.md)|blood magic 용으로 만든 saturated tau 팜|
 |[ 핑크 슬라임 탱크](pink_slime_tank.md)|이딴거에뭔이름을붙이냐부끄럽게|
 <!-- systems_list_dest_close -->

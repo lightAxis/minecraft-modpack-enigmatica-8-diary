@@ -38,6 +38,8 @@
 |[순환 철도 - 스파크 타이드](../buildings/ocr_spark_tide.md)|역사 건축|
 |[순환 철도 - 크라시움](../buildings/ocr_cratium.md)|레일 배치|
 |[식물의 방](../buildings/room_of_plant.md)|건축|
+|[아스펜 정거장](../buildings/ocr_aspen_station.md)|깃발꽃기|
+|[연구소 - 다리](../buildings/lab_bridge.md)|건축|
 |[연구소 - 메인](../buildings/lab.md)|건축|
 |[연구소 - 메카](../buildings/lab_meka_lab.md)|건축|
 |[연구소 - 천연 연못](../buildings/lab_pond.md)|건축|
@@ -46,6 +48,9 @@
 |[자동 몹 농장](../systems/auto_mob_farm.md)|시스템 설계 보조 및 제작|
 |[지옥문](../buildings/door_of_hell.md)|건축|
 |[천문대](../buildings/observatory.md)|건축|
+|[크리에이트 자동 공정 룸](../systems/create_auto_factory.md)|자동화 시설 다수 설계 및 제작|
 |[태초의 건축물](../buildings/primitive_building.md)|건축|
+|[팅커스 컨스트럭트 용광로](../systems/tc_smeltery.md)|시스템 설계 및 제작|
 |[하모닉 브릿지](../buildings/ocr_harmonic_bridge.md)|레일 배치, 곡선 설계, 노가다 지시|
+|[하와이](../buildings/howai.md)|깃발꽃기|
 <!-- tag_close -->

@@ -2,7 +2,7 @@
 
 수상기와 화산을 동시에 볼 수 있는 플라자
 
-![asdf](../../asset/blank_img.jpg)
+![asdf](../../asset/buildings/ocr_spark_tide/main.jpg)
 
 <!-- tag_target_open:frame:overworld_circular_rail -->
 :::tip 오버월드 순환 철도 노선도
@@ -20,6 +20,16 @@
 바로 옆으로 200블럭 정도 가면 활화산이 있으며, 자연적으로 스폰된 지형이다. 
 
 여담으로 이 역의 이름을 정하는데 힘들어해서 chat gpt 4.0을 써서 80개의 후보군을 뽑고, 그 중 좋은 조합을 변형하여 정했다.
+
+흰색콘크리트로 외관을 마무리하여 통일성을 줌
+내부는 콘크리크와 나무를 각각사용하여 여러 컨셉의 방을 만듬
+지하에서는 수상기를 탈수 있을 예정
+
+
+![asdf](../../asset/buildings/ocr_spark_tide/interior1.jpg)
+
+![asdf](../../asset/buildings/ocr_spark_tide/interior2.jpg)
+
 
 ## 타 문서와의 관계
 <!-- ### 상위 장소 -->

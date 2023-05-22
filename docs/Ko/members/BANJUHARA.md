@@ -30,6 +30,7 @@
 |[개인 주택 - BANJUHARA](../buildings/house_BANJUHARA.md)|건축|
 |[광물 정제 플랜트 - 5배](../systems/mk_ore_processing_plant_5x.md)|파이프라인 설계 및 제작 / 유지보수|
 |[러브하우수 ](../systems/love_house.md)|최다우수이용고객|
+|[러쉬 스택 무인 카페](../buildings/lush_stack_cafe.md)|카페 데코 / 설계 및 영상 촬영|
 |[레이저 드릴](../systems/laser_drill.md)|최초 시작|
 |[리튬 플랜트](../systems/mk_lithum_plant.md)|생산시설 설계 및 제작|
 |[리파인드 스토리지 (메인)](../systems/rs_main.md)|시스템 유지보수 및 기능 추가|
@@ -49,6 +50,7 @@
 |[에틸렌 발전소](../systems/mk_ethylene_generator.md)|파워 플랜트 설계 및 제작|
 |[오버월드 순환 철도](../buildings/overworld_circular_railway.md)|철도 배치, 경로 계획|
 |[쿠킹 벙커](../systems/cooking_bunker.md)|건물 디자인 및 자동화 설계 / 제작|
+|[크리에이트 자동 공정 룸](../systems/create_auto_factory.md)|자동화 시설 다수 설계 및 제작|
 |[탐욕의 탑](../buildings/tower_of_avarice.md)|건축 준비|
 |[핑크 슬라임 탱크](../systems/pink_slime_tank.md)|배치하기|
 <!-- tag_close -->

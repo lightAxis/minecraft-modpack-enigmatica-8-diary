@@ -57,7 +57,7 @@
 |[광물 정제 플랜트 - 5배](../systems/mk_ore_processing_plant_5x.md)|텔레포터 배치|
 |[나무 농장 (크리에이트 카트)](../systems/tree_farm_create_cart.md)|기획 및 시스템 개발|
 |[네더 금 농장](../systems/nether_gold_farm.md)|텔레포터 배치 / RS 네트워크 연결 관리|
-|[러쉬 스택 모노레일](../buildings/lush_stack_monorail.md)|모노레일 승강장, 다리 건설|
+|[러쉬 스택 모노레일](../buildings/lush_stack_monorail.md)|모노레일 승강장, 다리, 레일 건설|
 |[레이저 드릴](../systems/laser_drill.md)|기계 배치 및 제작|
 |[리파인드 스토리지 (메인)](../systems/rs_main.md)|시스템 총괄 및 유지보수|
 |[리파인드 스토리지 네트워크 트랜젝션](../systems/rs_network_tranjection.md)|총괄 및 유지보수 / 텔레포터 허브 연결|
@@ -71,7 +71,7 @@
 |[메카니즘 자동 병렬 인리치멘트 체임버](../systems/mk_auto_enrichment_chamber.md)|자동화 라인 설계 및 제작|
 |[메카니즘 자동 병렬 크러셔](../systems/mk_auto_crushers.md)|시스템 설계 및 제작|
 |[메카니즘 자동 컴프레싱 머신](../systems/mk_auto_compressing.md)|시스템 설계 및 제작|
-|[순환 철도 - 러쉬 스택](../buildings/ocr_lush_stack.md)|역사 제작, 레일 배치|
+|[순환 철도 - 러쉬 스택](../buildings/ocr_lush_stack.md)|역사 제작, 전망대 건축, 승강장 건축, 레일 배치|
 |[순환 철도 - 스파크 타이드](../buildings/ocr_spark_tide.md)|레일 배치|
 |[순환 철도 - 크라시움](../buildings/ocr_cratium.md)|레일 배치|
 |[써멀 익스팬션 자동 마그마 크루시블](../systems/te_auto_magma_crucible.md)|시스템 설계 및 제작|

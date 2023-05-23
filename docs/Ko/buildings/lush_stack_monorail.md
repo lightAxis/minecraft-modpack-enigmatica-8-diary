@@ -61,5 +61,5 @@ Create 모드의 Girder를 사용하여 벽에 앵커를 박아 레일이 단단
 ### 참여자
 <!-- tag_source_open:link_list:member_contribute -->
 - [jasuk500](../members/jasuk500.md)  
-모노레일 승강장, 다리 건설
+모노레일 승강장, 다리, 레일 건설
 <!-- tag_close-->

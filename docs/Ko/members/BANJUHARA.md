@@ -45,6 +45,7 @@
 |[메카니즘 황산 플랜트](../systems/mk_sulfer_plant.md)|파이프라인 설계 및 제작|
 |[몹 스포터 농장](../systems/mobspawner_farm.md)|몹 스포터 룸으로 개조|
 |[블레이즈 킬링 챔버](../systems/blaze_killing_chamber.md)|자동화 설계 및 제작|
+|[순환 철도 - 러쉬 스택](../buildings/ocr_lush_stack.md)|역사 제작, 컬쳐 스페이스 건축|
 |[순환 철도 - 스파크 타이드](../buildings/ocr_spark_tide.md)|레일 배치|
 |[순환 철도 - 크라시움](../buildings/ocr_cratium.md)|레일 배치|
 |[에틸렌 발전소](../systems/mk_ethylene_generator.md)|파워 플랜트 설계 및 제작|

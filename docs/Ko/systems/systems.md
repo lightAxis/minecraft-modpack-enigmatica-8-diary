@@ -16,6 +16,7 @@
 |[ Blood magic Edge of The Hidden Realm](bl_edge_of_the_hidden_realm.md)|블러드 매직 모드가 추가하는 이상한 차원.|
 |[ Blood magic Pathway to The Endless Realm](bl_pathway_to_the_endless_realm.md)|블러드 매직 모드가 추가하는 이상한 차원.|
 |[ Create 강판 생산 라인](create_plate_line.md)|흑요석 라인 바로 아래에 위치하여 기차 만들기 위한 강판을 생산한다|
+|[ Create 기차들](create_trains.md)|크리에이트를 사용해 만든 모든 기차들|
 |[ Create 메카니컬 조합기](create_mechanical_crafter.md)|사용할줄 모르면 첫 고난인 조합기 뉴비에게 시켜보면 꿀잼임|
 |[ Create 물레바퀴](create_waterwheel.md)|초반 동력을 책임 졌던 물레바퀴이다|
 |[ Create 반자동 안산암 합금 생성기](create_semiauto_andesite_alloy_maker.md)|한쪽에 안산암 다른쪽에 철조각을 넣으면 아래 상자에 나옴|

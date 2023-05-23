@@ -27,6 +27,7 @@
 ### 참여 목록
 |문서|기여 내용|
 |---|---|
+|[Create 기차들](../systems/create_trains.md)|기차 제작|
 |[Create 플랫폼](../buildings/create_platform.md)|건축|
 |[길드 하우스](../buildings/guild_house.md)|건축|
 |[나무 농장 (크리에이트 카트)](../systems/tree_farm_create_cart.md)|케이싱 데코|

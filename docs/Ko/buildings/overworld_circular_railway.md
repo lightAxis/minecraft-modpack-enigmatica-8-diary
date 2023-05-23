@@ -51,6 +51,10 @@
 <!-- 보유 시설 목록 -->
 <!-- tag_target_open:reverse_link_list:building_spot -->
 <!-- tag_arg:preset:systems_inside -->
+### 보유 시설 목록
+|시설|세부 사항|
+|---|---|
+|[Create 기차들](../systems/create_trains.md)|레일 위에서 상시 대기중|
 <!-- tag_close -->
 
 ### 참여자

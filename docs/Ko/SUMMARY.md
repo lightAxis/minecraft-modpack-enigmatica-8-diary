@@ -94,6 +94,7 @@
   * [Create 범용 분쇄기](systems/create_universial_crusher.md)
   * [Create 물레바퀴](systems/create_waterwheel.md)
   * [Create 자동 공정 룸](systems/create_auto_factory.md)
+  * [Create 기차들](systems/create_trains.md)
   * [이머시브 엔지니어링 원예기](systems/ie_garden_clothe.md)
   * [이머시브 엔지니어링 - 전시관](systems/ie_main.md)
   * [Blood magic Edge of The Hidden Realm](systems/bl_edge_of_the_hidden_realm.md)

@@ -14,9 +14,16 @@
 
 철도가 높게 솟은 돌기둥을 관통하며, 그 안에 정거장이 지어져 있다. 
 엘리베이터를 통해 이동하며, 총 3개의 구획이 있다. 
-- L층: 열차에 탑승할 수 있는 정거장이 있다. 
-- F2층 : 돌기둥의 위로 올라가 전망대가 있다. 맨 위의 호수 밑바닥과 연결되어 있어서 수중 통로를 통과한다.
-- B1층 : 러쉬스택 역사 내의 카페, 음식점이 위치해 있으며, 러쉬 스택 모노레일로 갈 수 있는 다리가 있다.
+
+
+- **L층** : 열차에 탑승할 수 있는 정거장이 있다. 
+![asdf](../../asset/buildings/ocr_lush_stack/station3.jpg)
+
+- **F2층** : 돌기둥의 위로 올라가 전망대가 있다. 맨 위의 호수 밑바닥과 연결되어 있어서 수중 통로를 통과한다.  
+![asdf](../../asset/buildings/ocr_lush_stack/observatory.jpg)
+
+- **B1층** : 러쉬스택 역사 내의 카페, 음식점이 위치해 있으며, 러쉬 스택 모노레일로 갈 수 있는 다리가 있다.  
+![asdf](../../asset/buildings/ocr_lush_stack/culturespace1.jpg)
 
 ## 업데이트 내역
 
@@ -49,6 +56,7 @@
 ### 2023-05-24 정거장 & 전망대 공사
 
 :::details 사진들
+
 정거장. 기존에 반대편도 엘레베이터로 하려 했지만, 너무 불편하다는 의견이 있어서 에스컬레이터로 대체되었다.  
 ![asdf](../../asset/buildings/ocr_lush_stack/station1.jpg)
 
@@ -58,6 +66,23 @@
 
 전망대. 최대한 간단하게 만들었다. macaw의 브릿지를 플랫폼처럼 사용했다.  
 ![asdf](../../asset/buildings/ocr_lush_stack/observatory.jpg)
+:::
+
+### 2023-05-25 컬쳐 스페이스 공사
+
+:::details 사진들
+
+컬쳐 스페이스의 모습. 러쉬스택 카페의 입구가 보인다.   
+![asdf](../../asset/buildings/ocr_lush_stack/culturespace1.jpg)
+![asdf](../../asset/buildings/ocr_lush_stack/culturespace3.jpg)
+![asdf](../../asset/buildings/ocr_lush_stack/culturespace4.jpg)
+
+화장실 입구가 보인다  
+![asdf](../../asset/buildings/ocr_lush_stack/culturespace2.jpg)
+
+화장실 내부.  
+거울을 구현하기 힘들어서 대신 framed pane에 connecte glass를 붙이고 뒤에를 white concrete로 바꿔놓아 연출했다.  
+![asdf](../../asset/buildings/ocr_lush_stack/culturespace_bathroom.jpg)
 :::
 
 ## 타 문서와의 관계

@@ -12,7 +12,7 @@
   * [jdr101102](members/jdr101102.md)
   * [EconomyBang](members/EconomyBang.md.md)
   * [gweeaa](members/gweeaa.md)
-  * [jin27](members/jjin27.md)
+  * [JJIN27](members/JJIN27.md)
 * [건축물](buildings/buildings.md)
   * [답없는 대나무](buildings/bamboo_hell.md)
   * [하와이](buildings/howai.md)

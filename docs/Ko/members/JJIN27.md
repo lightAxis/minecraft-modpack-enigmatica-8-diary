@@ -1,4 +1,4 @@
-# jjin27
+# JJIN27
 
 캐릭터 사진  
 ![캐릭터](../../asset/blank_img.jpg)

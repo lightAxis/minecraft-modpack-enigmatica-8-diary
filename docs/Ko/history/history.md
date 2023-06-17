@@ -153,3 +153,25 @@ onEvent('recipes', (event) => {
 
 ![asdf](../../asset/history/2023_05-20_3rdmodadd/simply_light.jpg)
 :::
+
+<span id="history_dynmap_blockscan_update"></span>
+## 2023-06-17 dynmap blockscan 업데이트
+
+
+기존의 dynmap은 바닐라 마크 이외의 모드에서 추가하는 블럭들을 렌더링 해주지 못했다.  
+
+dynmap blockscan을 추가 하여 자동으로 타 모드의 텍스쳐 블럭들을 dynmap에서 렌더링 할 수 있게 해준다.  
+
+:::details
+원래는 dynmap 폴더 안에 추가를 원하는 텍스쳐를 하나하나 경로를 따서 넣어주면 가능하지만, 모드가 너무 많아서 못하고.
+
+그걸 자동으로 해주는 dynmap blockscan 모드는 이상한 에러가 걸리면서 안되서 포기했었는데
+2주전에 github에 해당 이슈의 개발자 답변이 달렸고, 문제 해결로 이슈가 종료되었다. 
+
+거기서 제시한 dynmap blockscan 1.18 버전의 모드를 깔아서 드디어 월드의 온전한 모습을 볼 수 있게 되었다. 
+
+다음은 모든 블럭들이 정상적으로 렌더링된 현재 길드의 모습
+
+![asdf](../../asset/history/2023_06_17_dynmap_blockscan_update/normal_guild.jpg)
+:::
+

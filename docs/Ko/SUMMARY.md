@@ -43,6 +43,7 @@
   * [컴팩트 머신 차원](buildings/compact_machine_dimension.md)
   * [개인 주택 - jasuk500](buildings/house_jasuk500.md)
   * [개인 주택 - BANJUHARA](buildings/house_BANJUHARA.md)
+  * [ETC Shop](buildings/etc_shop.md)
 * [시스템](systems/systems.md)
   * [나무 농장 (크리에이트 카트)](systems/tree_farm_create_cart.md)
   * [쿠킹 벙커](systems/cooking_bunker.md)

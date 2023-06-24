@@ -25,4 +25,8 @@
 <!-- 참여 목록 -->
 <!-- tag_target_open:reverse_link_list:member_contribute -->
 <!-- tag_arg:preset:member_contribute -->
+### 참여 목록
+|문서|기여 내용|
+|---|---|
+|[ETC Shop](../buildings/etc_shop.md)|건축|
 <!-- tag_close -->

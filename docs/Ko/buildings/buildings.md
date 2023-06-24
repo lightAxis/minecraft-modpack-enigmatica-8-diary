@@ -14,6 +14,7 @@
 |이름|내용|
 |---|---|
 |[ Create 플랫폼](create_platform.md)|Create 시스템을 위한 모듈러 동력 전달 플랫폼.|
+|[ ETC Shop](etc_shop.md)|치즐로 빚은 높은 퀄리티의 잡화점이다|
 |[ 개인 주택 - BANJUHARA](house_BANJUHARA.md)|BANJUHARA의 개인 주택이다.|
 |[ 개인 주택 - jasuk500](house_jasuk500.md)|jasuk500의 개인 모던하우스 주택|
 |[ 길드 하우스](guild_house.md)|길드의 메인 하우스. 모두의 침대가 위치해 있다.|

@@ -37,6 +37,10 @@ y좌표가 거의 150으로 매우 높은 지형이다. 바로 위에 구름이 
 <!-- ### 하위 장소 목록 -->
 <!-- tag_target_open:reverse_link_list:child_spot -->
 <!-- tag_arg:preset:spots_inside -->
+### 하위 장소 목록
+|시설|세부 사항|
+|---|---|
+|[크라시움 모노레일](cratium_monorail.md)|화산을 한바퀴 돌며 구경할 수 있는 모노레일|
 <!-- tag_close -->
 
 

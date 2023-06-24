@@ -28,9 +28,11 @@
 |[ Create 케이스 생산 라인](create_case_line.md)|create의 모든 케이스를 생산 할 수 있는 자동화 라인.|
 |[ Create 흑요석 생산 라인](create_obsidian_line.md)|유리블럭으로 둘러싸여 있어서 보수한다고 몇번이나 깨먹었다|
 |[ Nature Aura 제단](na_altar.md)|Nature's Aura 모드의 기본 제단|
+|[ Pnumatic Craft 정제라인](pc_refiner_line.md)|누메틱 크래프트의 각종 자원을 정제하는 곳|
 |[ 광물 정제 플랜트 - 5배](mk_ore_processing_plant_5x.md)|황산과 염화수소는 외부에 지은 황산 제조공정에서 긴빠이해서 사용하는 덕분에 굉장히 간소해짐|
 |[ 나무 농장 (크리에이트 카트)](tree_farm_create_cart.md)|처음으로 지어진 나무 농장.  |
 |[ 네더 금 농장](nether_gold_farm.md)|네더의 금농장을 목적으로 했지만 경험치 조작가 더 많이 나오는 팜  |
+|[ 네더 레이저 드릴](laser_drill_nether.md)|네더 바이옴에서 가중치가 높은 특정 광물들을 핀포인트로 채굴하기 위한 레이저 드릴|
 |[ 러브하우수 ](love_house.md)|따뜻한 조명과 안락하고 견고한 내부구조로 안전한 잠수가 가능함|
 |[ 레이저 드릴](laser_drill.md)|에너지를 사용해서 광물을 생성하는 최종 테크|
 |[ 리튬 플랜트](mk_lithum_plant.md)|리튬 가루를 생산하는 플랜트|
@@ -53,6 +55,7 @@
 |[ 메카니즘 황산 플랜트](mk_sulfer_plant.md)|물과 조약돌을 가공해 황산을 만드는 공정단지임. 전기 공급은 아래쪽으로 빼서 손도 깔끔|
 |[ 몹 스포터 농장](mobspawner_farm.md)|컴팩트 차원에서 안전하게 몹을 잡을 수 있는 방이다.|
 |[ 보타니아 염료 농장](botania_dye_farm.md)|모든 종류의 염료를 한 장치에서 양산 가능함|
+|[ 보타니아 자동화 서브시스템](bt_auto_subsystems.md)|보타니아 자동화 관련 설비들|
 |[ 블레이즈 킬링 챔버](blaze_killing_chamber.md)|블레이즈를 자동으로 생산 후 녹이는 방.|
 |[ 써멀 익스팬션 자동 마그마 크루시블](te_auto_magma_crucible.md)|RS에 연결된 마그마 크루시블|
 |[ 써멀 익스팬션 자동 멀티서보 프레스](te_auto_multiservo_press.md)|금속의 형태를 가공하는 곳|

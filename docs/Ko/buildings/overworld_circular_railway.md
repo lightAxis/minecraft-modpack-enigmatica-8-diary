@@ -16,6 +16,18 @@
 
 하나의 철도 당 n대의 열차가 자동으로 달리고 있으며, 최소 배차 간격은 n분이다.
 
+## 업데이트 내역
+### 2023-06-06 철도 아래 교량 공사
+
+:::details 사진들
+지어진 교량들.  
+![asdf](../../asset/buildings/overworld_circular_railway/pillars1.jpg)
+![asdf](../../asset/buildings/overworld_circular_railway/pillars2.jpg)
+![asdf](../../asset/buildings/overworld_circular_railway/pillars3.jpg)
+![asdf](../../asset/buildings/overworld_circular_railway/pillars4.jpg)
+
+:::
+
 
 ## 연결 건축물
 ### 라임웨이 브릿지
@@ -43,6 +55,7 @@
 ### 하위 장소 목록
 |시설|세부 사항|
 |---|---|
+|[맨션 터널](ocr_mansion_tunnel.md)|감히 철도를 짓는데 방해되던 맨션을 자비없이 뚫어버린 터널. |
 |[아스펜 정거장](ocr_aspen_station.md)|스파크 타이드와 크라시움 역 사이의 작은 정거장|
 |[하모닉 브릿지](ocr_harmonic_bridge.md)|러쉬 스택과 스파크 타이드 역 사이를 잇는 거대한 현수교|
 <!-- tag_close -->

@@ -65,6 +65,7 @@
 |[리파인드 스토리지 블랙홀 룸](../systems/rs_black_hole.md)|설계, 제작, 텔레포터 허브 연결|
 |[리파인드 스토리지 재고 제어](../systems/rs_stock_control.md)|시스템 설계 및 제작 / 텔레포터 허브 연결|
 |[리파인드 스토리지 크래프터 룸](../systems/rs_crafters.md)|설계, 제작, 텔레포터 허브 연결|
+|[맨션 터널](../buildings/ocr_mansion_tunnel.md)|터널 건축, 철도 잇기, 스포너 제거|
 |[메카니즘 인덕션 메트릭스](../systems/mk_induction_matrix.md)|텔레포터 배치|
 |[메카니즘 자동 메탈러직 인퓨져](../systems/mk_auto_metallurgic_infuser.md)|자동화 라인 설계 및 제작|
 |[메카니즘 자동 병렬 스멜터](../systems/mk_auto_smeltery.md)|자동화 라인 설계 및 제작|
@@ -83,6 +84,7 @@
 |[오컬티즘 매직 스토리지](../systems/occultism_magic_storage.md)|시스템 총괄 / 개발 / 스토리지 엑세서 배포 / 유지보수|
 |[자동 몹 농장](../systems/auto_mob_farm.md)|시스템 설계 및 제작|
 |[컴팩트 머신 메인](../systems/cm_compactmachine_main.md)|설계 및 제작|
+|[크라시움 모노레일](../buildings/cratium_monorail.md)|모노레일 승강장, 다리, 레일 건설|
 |[텔레포터 트랜잭션](../systems/teleporter_hub.md)|시스템 설계 / 제작 / 유지보수|
 |[하모닉 브릿지](../buildings/ocr_harmonic_bridge.md)|노가다, 철선 설치|
 <!-- tag_close -->

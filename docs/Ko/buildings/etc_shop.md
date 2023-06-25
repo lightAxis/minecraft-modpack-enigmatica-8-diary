@@ -19,7 +19,12 @@
 
 누가 남의 집 마당에 먹다 남은 피자랑 칼 버리고 감  
 ![asdf](../../asset/buildings/etc_shop/sakura_tree_and_tables.jpg)
+:::
 
+### 2023-06-25 포션 샵 추가
+:::details 포션샵
+ETC Shop 포션 코너  
+![asdf](../../asset/buildings/etc_shop/potion.jpg)
 :::
 
 
